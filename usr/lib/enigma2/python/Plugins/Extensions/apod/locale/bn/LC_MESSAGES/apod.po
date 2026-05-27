@@ -1,0 +1,116 @@
+# apod translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apod\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 17:49+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bengali <(nothing)>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "APOD Plugin Settings"
+msgstr "APOD প্লাগইন সেটিংস"
+
+msgid "Cancel"
+msgstr "বাতিল করুন"
+
+msgid "Error building list"
+msgstr "তালিকা তৈরিতে ত্রুটি"
+
+msgid "Error displaying image"
+msgstr "ছবি প্রদর্শনে ত্রুটি"
+
+msgid "Error downloading image: {}"
+msgstr "ছবি ডাউনলোড করার সময় ত্রুটি: {}"
+
+msgid "Error loading data"
+msgstr "ডেটা লোড করার সময় ত্রুটি৷"
+
+msgid "Error loading data. Try later."
+msgstr "ডেটা লোড করার সময় ত্রুটি৷ পরে চেষ্টা করুন।"
+
+msgid "Failed to download image"
+msgstr "ছবি ডাউনলোড করতে ব্যর্থ হয়েছে"
+
+msgid "Failed to fetch image: HTTP {}"
+msgstr "ছবি আনতে ব্যর্থ হয়েছে: HTTP {}"
+
+msgid "Failed to load APOD"
+msgstr "APOD লোড করা যায়নি"
+
+msgid "Failed to load image."
+msgstr "ছবি লোড করতে ব্যর্থ হয়েছে৷"
+
+msgid "Fetch mode:"
+msgstr "আনয়ন মোড:"
+
+msgid "Found"
+msgstr "পাওয়া গেছে"
+
+msgid "Found {} entries"
+msgstr "{} এন্ট্রি পাওয়া গেছে"
+
+msgid "Image not available"
+msgstr "ছবি উপলব্ধ নয়"
+
+msgid "Invalid API Key! Please configure a valid NASA API key."
+msgstr "অবৈধ API কী! অনুগ্রহ করে একটি বৈধ NASA API কী কনফিগার করুন৷"
+
+msgid "Loading Astronomy Picture of the Day..."
+msgstr "দিনের জ্যোতির্বিজ্ঞানের ছবি লোড হচ্ছে..."
+
+msgid "Loading fresh APOD data..."
+msgstr "তাজা APOD ডেটা লোড হচ্ছে..."
+
+msgid "Loading image..."
+msgstr "ছবি লোড হচ্ছে..."
+
+msgid "Loading..."
+msgstr "লোড হচ্ছে..."
+
+msgid "NASA API Key:"
+msgstr "NASA API কী:"
+
+msgid "No data available. Check API key."
+msgstr "কোন তথ্য উপলব্ধ নেই. API কী চেক করুন।"
+
+msgid "No image URL available"
+msgstr "কোনো ছবির URL উপলব্ধ নেই৷"
+
+msgid "Number of APODs to fetch:"
+msgstr "আনতে APOD এর সংখ্যা:"
+
+msgid "Press OK to play video"
+msgstr "ভিডিও চালাতে ওকে টিপুন"
+
+msgid "Random"
+msgstr "এলোমেলো"
+
+msgid "Recent (date range)"
+msgstr "সাম্প্রতিক (তারিখ পরিসীমা)"
+
+msgid "Save"
+msgstr "সংরক্ষণ করুন"
+
+msgid "Search results: {}"
+msgstr "অনুসন্ধান ফলাফল: {}"
+
+msgid "Search..."
+msgstr "অনুসন্ধান করুন..."
+
+msgid "Sort order:"
+msgstr "সাজানোর ক্রম:"
+
+msgid "Unsupported video URL"
+msgstr "অসমর্থিত ভিডিও URL"
+
+msgid "Video playback failed"
+msgstr "ভিডিও প্লেব্যাক ব্যর্থ হয়েছে"

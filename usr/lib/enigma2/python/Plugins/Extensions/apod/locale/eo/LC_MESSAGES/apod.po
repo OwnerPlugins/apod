@@ -1,0 +1,117 @@
+# apod translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apod\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 17:53+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Esperanto <translation-team-eo@lists.sourceforge.net>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "APOD Plugin Settings"
+msgstr "Agordoj de la kromprogramo APOD"
+
+msgid "Cancel"
+msgstr "Nuligi"
+
+msgid "Error building list"
+msgstr "Eraro konstrui liston"
+
+msgid "Error displaying image"
+msgstr "Eraro dum montrado de bildo"
+
+msgid "Error downloading image: {}"
+msgstr "Eraro dum elŝuto de bildo: {}"
+
+msgid "Error loading data"
+msgstr "Eraro dum ŝarĝo de datumoj"
+
+msgid "Error loading data. Try later."
+msgstr "Eraro dum ŝarĝo de datumoj. Provu poste."
+
+msgid "Failed to download image"
+msgstr "Malsukcesis elŝuti bildon"
+
+msgid "Failed to fetch image: HTTP {}"
+msgstr "Malsukcesis alporti bildon: HTTP {}"
+
+msgid "Failed to load APOD"
+msgstr "Malsukcesis ŝargi APOD"
+
+msgid "Failed to load image."
+msgstr "Malsukcesis ŝargi bildon."
+
+msgid "Fetch mode:"
+msgstr "Preti reĝimo:"
+
+msgid "Found"
+msgstr "Trovita"
+
+msgid "Found {} entries"
+msgstr "Trovis {} enskribojn"
+
+msgid "Image not available"
+msgstr "Bildo ne havebla"
+
+msgid "Invalid API Key! Please configure a valid NASA API key."
+msgstr "Nevalida API-Ŝlosilo! Bonvolu agordi validan NASA-API-ŝlosilon."
+
+msgid "Loading Astronomy Picture of the Day..."
+msgstr "Ŝarĝante Astronomian Bildon de la Tago..."
+
+msgid "Loading fresh APOD data..."
+msgstr "Ŝargante freŝajn datumojn de APOD..."
+
+msgid "Loading image..."
+msgstr "Ŝarĝante bildon..."
+
+msgid "Loading..."
+msgstr "Ŝarĝante..."
+
+msgid "NASA API Key:"
+msgstr "NASA API-Ŝlosilo:"
+
+msgid "No data available. Check API key."
+msgstr "Neniuj datumoj haveblaj. Kontrolu API-ŝlosilon."
+
+msgid "No image URL available"
+msgstr "Neniu bildo URL havebla"
+
+msgid "Number of APODs to fetch:"
+msgstr "Nombro da APOD-oj por alporti:"
+
+msgid "Press OK to play video"
+msgstr "Premu OK por ludi videon"
+
+msgid "Random"
+msgstr "hazarda"
+
+msgid "Recent (date range)"
+msgstr "Lastatempa (datintervalo)"
+
+msgid "Save"
+msgstr "Konservu"
+
+msgid "Search results: {}"
+msgstr "Serĉrezultoj: {}"
+
+msgid "Search..."
+msgstr "Serĉu..."
+
+msgid "Sort order:"
+msgstr "Ordo de ordo:"
+
+msgid "Unsupported video URL"
+msgstr "Nesubtenata video URL"
+
+msgid "Video playback failed"
+msgstr "La videoludado malsukcesis"

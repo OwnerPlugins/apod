@@ -1,0 +1,116 @@
+# apod translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apod\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 18:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Sinhala\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "APOD Plugin Settings"
+msgstr "APOD ප්ලගින සැකසුම්"
+
+msgid "Cancel"
+msgstr "අවලංගු කරන්න"
+
+msgid "Error building list"
+msgstr "ලැයිස්තුව ගොඩනැගීමේ දෝෂයකි"
+
+msgid "Error displaying image"
+msgstr "රූපය පෙන්වීමේ දෝෂයකි"
+
+msgid "Error downloading image: {}"
+msgstr "රූපය බාගත කිරීමේ දෝෂයකි: {}"
+
+msgid "Error loading data"
+msgstr "දත්ත පූරණය කිරීමේ දෝෂයකි"
+
+msgid "Error loading data. Try later."
+msgstr "දත්ත පූරණය කිරීමේ දෝෂයකි. පසුව උත්සාහ කරන්න."
+
+msgid "Failed to download image"
+msgstr "රූපය බාගැනීම අසාර්ථක විය"
+
+msgid "Failed to fetch image: HTTP {}"
+msgstr "රූපය ලබා ගැනීමට අසමත් විය: HTTP {}"
+
+msgid "Failed to load APOD"
+msgstr "APOD පූරණය කිරීමට අසමත් විය"
+
+msgid "Failed to load image."
+msgstr "රූපය පූරණය කිරීමට අසමත් විය."
+
+msgid "Fetch mode:"
+msgstr "ලබා ගැනීමේ මාදිලිය:"
+
+msgid "Found"
+msgstr "හමු විය"
+
+msgid "Found {} entries"
+msgstr "ඇතුළත් කිරීම් {}ක් හමු විය"
+
+msgid "Image not available"
+msgstr "රූපය නොමැත"
+
+msgid "Invalid API Key! Please configure a valid NASA API key."
+msgstr "වලංගු නොවන API යතුර! කරුණාකර වලංගු NASA API යතුරක් වින්‍යාස කරන්න."
+
+msgid "Loading Astronomy Picture of the Day..."
+msgstr "දවසේ තාරකා විද්‍යා පින්තූරය පූරණය කරමින්..."
+
+msgid "Loading fresh APOD data..."
+msgstr "නැවුම් APOD දත්ත පූරණය කරමින්..."
+
+msgid "Loading image..."
+msgstr "රූපය පූරණය කරමින්..."
+
+msgid "Loading..."
+msgstr "පූරණය වෙමින්..."
+
+msgid "NASA API Key:"
+msgstr "NASA API යතුර:"
+
+msgid "No data available. Check API key."
+msgstr "දත්ත නොමැත. API යතුර පරීක්ෂා කරන්න."
+
+msgid "No image URL available"
+msgstr "රූප URL නොමැත"
+
+msgid "Number of APODs to fetch:"
+msgstr "ලබා ගැනීමට APODs ගණන:"
+
+msgid "Press OK to play video"
+msgstr "වීඩියෝව වාදනය කිරීමට OK ඔබන්න"
+
+msgid "Random"
+msgstr "අහඹු"
+
+msgid "Recent (date range)"
+msgstr "මෑත (දින පරාසය)"
+
+msgid "Save"
+msgstr "සුරකින්න"
+
+msgid "Search results: {}"
+msgstr "සෙවුම් ප්‍රතිඵල: {}"
+
+msgid "Search..."
+msgstr "සොයන්න..."
+
+msgid "Sort order:"
+msgstr "අනුපිළිවෙල අනුපිළිවෙල:"
+
+msgid "Unsupported video URL"
+msgstr "සහාය නොදක්වන වීඩියෝ URL"
+
+msgid "Video playback failed"
+msgstr "වීඩියෝ නැවත ධාවනය අසාර්ථක විය"

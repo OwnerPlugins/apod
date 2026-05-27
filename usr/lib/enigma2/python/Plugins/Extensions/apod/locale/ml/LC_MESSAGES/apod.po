@@ -1,0 +1,116 @@
+# apod translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apod\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 18:08+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "APOD Plugin Settings"
+msgstr "APOD പ്ലഗിൻ ക്രമീകരണങ്ങൾ"
+
+msgid "Cancel"
+msgstr "റദ്ദാക്കുക"
+
+msgid "Error building list"
+msgstr "നിർമ്മാണ പട്ടികയിൽ പിശക്"
+
+msgid "Error displaying image"
+msgstr "ചിത്രം പ്രദർശിപ്പിക്കുന്നതിൽ പിശക്"
+
+msgid "Error downloading image: {}"
+msgstr "ചിത്രം ഡൗൺലോഡ് ചെയ്യുന്നതിൽ പിശക്: {}"
+
+msgid "Error loading data"
+msgstr "ഡാറ്റ ലോഡുചെയ്യുന്നതിൽ പിശക്"
+
+msgid "Error loading data. Try later."
+msgstr "ഡാറ്റ ലോഡുചെയ്യുന്നതിൽ പിശക്. പിന്നീട് ശ്രമിക്കുക."
+
+msgid "Failed to download image"
+msgstr "ചിത്രം ഡൗൺലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു"
+
+msgid "Failed to fetch image: HTTP {}"
+msgstr "ചിത്രം ലഭ്യമാക്കുന്നതിൽ പരാജയപ്പെട്ടു: HTTP {}"
+
+msgid "Failed to load APOD"
+msgstr "APOD ലോഡുചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു"
+
+msgid "Failed to load image."
+msgstr "ചിത്രം ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു."
+
+msgid "Fetch mode:"
+msgstr "ലഭ്യമാക്കൽ മോഡ്:"
+
+msgid "Found"
+msgstr "കണ്ടെത്തി"
+
+msgid "Found {} entries"
+msgstr "{} എൻട്രികൾ കണ്ടെത്തി"
+
+msgid "Image not available"
+msgstr "ചിത്രം ലഭ്യമല്ല"
+
+msgid "Invalid API Key! Please configure a valid NASA API key."
+msgstr "API കീ അസാധുവാണ്! സാധുവായ ഒരു NASA API കീ കോൺഫിഗർ ചെയ്യുക."
+
+msgid "Loading Astronomy Picture of the Day..."
+msgstr "ഈ ദിവസത്തെ ജ്യോതിശാസ്ത്ര ചിത്രം ലോഡ് ചെയ്യുന്നു..."
+
+msgid "Loading fresh APOD data..."
+msgstr "പുതിയ APOD ഡാറ്റ ലോഡുചെയ്യുന്നു..."
+
+msgid "Loading image..."
+msgstr "ചിത്രം ലോഡ് ചെയ്യുന്നു..."
+
+msgid "Loading..."
+msgstr "ലോഡ് ചെയ്യുന്നു..."
+
+msgid "NASA API Key:"
+msgstr "നാസ API കീ:"
+
+msgid "No data available. Check API key."
+msgstr "വിവരങ്ങളൊന്നും ലഭ്യമല്ല. API കീ പരിശോധിക്കുക."
+
+msgid "No image URL available"
+msgstr "ഇമേജ് URL ലഭ്യമല്ല"
+
+msgid "Number of APODs to fetch:"
+msgstr "ലഭിക്കേണ്ട APOD-കളുടെ എണ്ണം:"
+
+msgid "Press OK to play video"
+msgstr "വീഡിയോ പ്ലേ ചെയ്യാൻ ശരി അമർത്തുക"
+
+msgid "Random"
+msgstr "ക്രമരഹിതമായ"
+
+msgid "Recent (date range)"
+msgstr "സമീപകാല (തീയതി ശ്രേണി)"
+
+msgid "Save"
+msgstr "സംരക്ഷിക്കുക"
+
+msgid "Search results: {}"
+msgstr "തിരയൽ ഫലങ്ങൾ: {}"
+
+msgid "Search..."
+msgstr "തിരയുക..."
+
+msgid "Sort order:"
+msgstr "അടുക്കൽ ക്രമം:"
+
+msgid "Unsupported video URL"
+msgstr "പിന്തുണയ്ക്കാത്ത വീഡിയോ URL"
+
+msgid "Video playback failed"
+msgstr "വീഡിയോ പ്ലേബാക്ക് പരാജയപ്പെട്ടു"

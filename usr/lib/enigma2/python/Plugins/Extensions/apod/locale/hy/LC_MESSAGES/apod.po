@@ -1,0 +1,116 @@
+# apod translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apod\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 18:01+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Armenian\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "APOD Plugin Settings"
+msgstr "APOD Plugin-ի կարգավորումներ"
+
+msgid "Cancel"
+msgstr "Չեղարկել"
+
+msgid "Error building list"
+msgstr "Սխալ կառուցելու ցուցակը"
+
+msgid "Error displaying image"
+msgstr "Պատկերի ցուցադրման սխալ"
+
+msgid "Error downloading image: {}"
+msgstr "Պատկերը ներբեռնելիս սխալ՝ {}"
+
+msgid "Error loading data"
+msgstr "Չհաջողվեց բեռնել տվյալները"
+
+msgid "Error loading data. Try later."
+msgstr "Չհաջողվեց բեռնել տվյալները: Փորձեք ավելի ուշ:"
+
+msgid "Failed to download image"
+msgstr "Չհաջողվեց ներբեռնել պատկերը"
+
+msgid "Failed to fetch image: HTTP {}"
+msgstr "Չհաջողվեց բեռնել պատկերը՝ HTTP {}"
+
+msgid "Failed to load APOD"
+msgstr "Չհաջողվեց բեռնել APOD-ը"
+
+msgid "Failed to load image."
+msgstr "Չհաջողվեց բեռնել պատկերը:"
+
+msgid "Fetch mode:"
+msgstr "Բերման ռեժիմ."
+
+msgid "Found"
+msgstr "Գտնվել է"
+
+msgid "Found {} entries"
+msgstr "Գտնվել է {} գրառում"
+
+msgid "Image not available"
+msgstr "Պատկերը հասանելի չէ"
+
+msgid "Invalid API Key! Please configure a valid NASA API key."
+msgstr "Անվավեր API բանալի: Խնդրում ենք կարգավորել վավեր NASA API բանալի:"
+
+msgid "Loading Astronomy Picture of the Day..."
+msgstr "Բեռնվում է օրվա աստղագիտական ​​նկարը..."
+
+msgid "Loading fresh APOD data..."
+msgstr "Բեռնվում է թարմ APOD տվյալները..."
+
+msgid "Loading image..."
+msgstr "Պատկերը բեռնվում է..."
+
+msgid "Loading..."
+msgstr "Բեռնվում է..."
+
+msgid "NASA API Key:"
+msgstr "NASA API բանալի."
+
+msgid "No data available. Check API key."
+msgstr "Տվյալներ չկան: Ստուգեք API ստեղնը:"
+
+msgid "No image URL available"
+msgstr "Պատկերի URL հասանելի չէ"
+
+msgid "Number of APODs to fetch:"
+msgstr "Բերման ենթակա APOD-ների քանակը."
+
+msgid "Press OK to play video"
+msgstr "Սեղմեք OK՝ տեսանյութը նվագարկելու համար"
+
+msgid "Random"
+msgstr "պատահական"
+
+msgid "Recent (date range)"
+msgstr "Վերջին (ամսաթվերի միջակայք)"
+
+msgid "Save"
+msgstr "Պահպանել"
+
+msgid "Search results: {}"
+msgstr "Որոնման արդյունքներ՝ {}"
+
+msgid "Search..."
+msgstr "Որոնել..."
+
+msgid "Sort order:"
+msgstr "Տեսակավորման կարգը."
+
+msgid "Unsupported video URL"
+msgstr "Չաջակցվող տեսանյութի URL"
+
+msgid "Video playback failed"
+msgstr "Տեսանյութի նվագարկումը ձախողվեց"

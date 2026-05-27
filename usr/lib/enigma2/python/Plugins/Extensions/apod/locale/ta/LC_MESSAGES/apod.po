@@ -1,0 +1,116 @@
+# apod translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apod\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 18:20+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <tamil@systemreboot.net>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "APOD Plugin Settings"
+msgstr "APOD செருகுநிரல் அமைப்புகள்"
+
+msgid "Cancel"
+msgstr "ரத்து செய்"
+
+msgid "Error building list"
+msgstr "பட்டியலை உருவாக்குவதில் பிழை"
+
+msgid "Error displaying image"
+msgstr "படத்தைக் காண்பிப்பதில் பிழை"
+
+msgid "Error downloading image: {}"
+msgstr "படத்தைப் பதிவிறக்குவதில் பிழை: {}"
+
+msgid "Error loading data"
+msgstr "தரவை ஏற்றுவதில் பிழை"
+
+msgid "Error loading data. Try later."
+msgstr "தரவை ஏற்றுவதில் பிழை. பிறகு முயற்சிக்கவும்."
+
+msgid "Failed to download image"
+msgstr "படத்தைப் பதிவிறக்க முடியவில்லை"
+
+msgid "Failed to fetch image: HTTP {}"
+msgstr "படத்தைப் பெறுவதில் தோல்வி: HTTP {}"
+
+msgid "Failed to load APOD"
+msgstr "APODஐ ஏற்றுவதில் தோல்வி"
+
+msgid "Failed to load image."
+msgstr "படத்தை ஏற்ற முடியவில்லை."
+
+msgid "Fetch mode:"
+msgstr "பெறுதல் முறை:"
+
+msgid "Found"
+msgstr "கண்டுபிடிக்கப்பட்டது"
+
+msgid "Found {} entries"
+msgstr "{} உள்ளீடுகள் கிடைத்தன"
+
+msgid "Image not available"
+msgstr "படம் கிடைக்கவில்லை"
+
+msgid "Invalid API Key! Please configure a valid NASA API key."
+msgstr "தவறான API விசை! சரியான NASA API விசையை உள்ளமைக்கவும்."
+
+msgid "Loading Astronomy Picture of the Day..."
+msgstr "அன்றைய வானியல் படத்தை ஏற்றுகிறது..."
+
+msgid "Loading fresh APOD data..."
+msgstr "புதிய APOD தரவை ஏற்றுகிறது..."
+
+msgid "Loading image..."
+msgstr "படத்தை ஏற்றுகிறது..."
+
+msgid "Loading..."
+msgstr "ஏற்றுகிறது..."
+
+msgid "NASA API Key:"
+msgstr "NASA API விசை:"
+
+msgid "No data available. Check API key."
+msgstr "தரவு எதுவும் கிடைக்கவில்லை. API விசையைச் சரிபார்க்கவும்."
+
+msgid "No image URL available"
+msgstr "பட URL இல்லை"
+
+msgid "Number of APODs to fetch:"
+msgstr "பெற வேண்டிய APODகளின் எண்ணிக்கை:"
+
+msgid "Press OK to play video"
+msgstr "வீடியோவை இயக்க சரி என்பதை அழுத்தவும்"
+
+msgid "Random"
+msgstr "சீரற்ற"
+
+msgid "Recent (date range)"
+msgstr "சமீபத்திய (தேதி வரம்பு)"
+
+msgid "Save"
+msgstr "சேமிக்கவும்"
+
+msgid "Search results: {}"
+msgstr "தேடல் முடிவுகள்: {}"
+
+msgid "Search..."
+msgstr "தேடு..."
+
+msgid "Sort order:"
+msgstr "வரிசை வரிசை:"
+
+msgid "Unsupported video URL"
+msgstr "ஆதரிக்கப்படாத வீடியோ URL"
+
+msgid "Video playback failed"
+msgstr "வீடியோ பிளேபேக் தோல்வியடைந்தது"

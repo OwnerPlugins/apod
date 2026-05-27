@@ -1,0 +1,116 @@
+# apod translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apod\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 18:26+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Uzbek\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "APOD Plugin Settings"
+msgstr "APOD plagin sozlamalari"
+
+msgid "Cancel"
+msgstr "Bekor qilish"
+
+msgid "Error building list"
+msgstr "Roʻyxatni yaratishda xatolik yuz berdi"
+
+msgid "Error displaying image"
+msgstr "Rasmni ko‘rsatishda xatolik yuz berdi"
+
+msgid "Error downloading image: {}"
+msgstr "Rasmni yuklab olishda xatolik yuz berdi: {}"
+
+msgid "Error loading data"
+msgstr "Maʼlumotlarni yuklashda xatolik yuz berdi"
+
+msgid "Error loading data. Try later."
+msgstr "Maʼlumotlarni yuklashda xatolik yuz berdi. Keyinroq urinib koʻring."
+
+msgid "Failed to download image"
+msgstr "Rasmni yuklab bo‘lmadi"
+
+msgid "Failed to fetch image: HTTP {}"
+msgstr "Rasmni olib bo‘lmadi: HTTP {}"
+
+msgid "Failed to load APOD"
+msgstr "APOD yuklanmadi"
+
+msgid "Failed to load image."
+msgstr "Rasm yuklanmadi."
+
+msgid "Fetch mode:"
+msgstr "Qabul qilish rejimi:"
+
+msgid "Found"
+msgstr "Topildi"
+
+msgid "Found {} entries"
+msgstr "{} ta yozuv topildi"
+
+msgid "Image not available"
+msgstr "Rasm mavjud emas"
+
+msgid "Invalid API Key! Please configure a valid NASA API key."
+msgstr "API kaliti yaroqsiz! Yaroqli NASA API kalitini sozlang."
+
+msgid "Loading Astronomy Picture of the Day..."
+msgstr "Kunning astronomiya surati yuklanmoqda..."
+
+msgid "Loading fresh APOD data..."
+msgstr "Yangi APOD maʼlumotlari yuklanmoqda..."
+
+msgid "Loading image..."
+msgstr "Rasm yuklanmoqda..."
+
+msgid "Loading..."
+msgstr "Yuklanmoqda..."
+
+msgid "NASA API Key:"
+msgstr "NASA API kaliti:"
+
+msgid "No data available. Check API key."
+msgstr "Maʼlumotlar mavjud emas. API kalitini tekshiring."
+
+msgid "No image URL available"
+msgstr "Rasm URL manzili mavjud emas"
+
+msgid "Number of APODs to fetch:"
+msgstr "Olib olinadigan APODlar soni:"
+
+msgid "Press OK to play video"
+msgstr "Videoni ijro etish uchun OK tugmasini bosing"
+
+msgid "Random"
+msgstr "tasodifiy"
+
+msgid "Recent (date range)"
+msgstr "Oxirgi (sana oralig'i)"
+
+msgid "Save"
+msgstr "Saqlash"
+
+msgid "Search results: {}"
+msgstr "Qidiruv natijalari: {}"
+
+msgid "Search..."
+msgstr "Qidiruv..."
+
+msgid "Sort order:"
+msgstr "Saralash tartibi:"
+
+msgid "Unsupported video URL"
+msgstr "Qo‘llab-quvvatlanmaydigan video URL manzili"
+
+msgid "Video playback failed"
+msgstr "Video ijro qilinmadi"

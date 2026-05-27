@@ -1,0 +1,117 @@
+# apod translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apod\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 18:16+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Romanian <translation-team-ro@lists.sourceforge.net>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
+
+msgid "APOD Plugin Settings"
+msgstr "Setări pentru pluginul APOD"
+
+msgid "Cancel"
+msgstr "Anula"
+
+msgid "Error building list"
+msgstr "Eroare la crearea listei"
+
+msgid "Error displaying image"
+msgstr "Eroare la afișarea imaginii"
+
+msgid "Error downloading image: {}"
+msgstr "Eroare la descărcarea imaginii: {}"
+
+msgid "Error loading data"
+msgstr "Eroare la încărcarea datelor"
+
+msgid "Error loading data. Try later."
+msgstr "Eroare la încărcarea datelor. Încercați mai târziu."
+
+msgid "Failed to download image"
+msgstr "Nu s-a putut descărca imaginea"
+
+msgid "Failed to fetch image: HTTP {}"
+msgstr "Nu s-a putut prelua imaginea: HTTP {}"
+
+msgid "Failed to load APOD"
+msgstr "Nu s-a încărcat APOD"
+
+msgid "Failed to load image."
+msgstr "Nu s-a putut încărca imaginea."
+
+msgid "Fetch mode:"
+msgstr "Modul preluare:"
+
+msgid "Found"
+msgstr "Găsit"
+
+msgid "Found {} entries"
+msgstr "S-au găsit {} intrări"
+
+msgid "Image not available"
+msgstr "Imaginea nu este disponibilă"
+
+msgid "Invalid API Key! Please configure a valid NASA API key."
+msgstr "Cheie API nevalidă! Vă rugăm să configurați o cheie API NASA validă."
+
+msgid "Loading Astronomy Picture of the Day..."
+msgstr "Se încarcă imaginea astronomică a zilei..."
+
+msgid "Loading fresh APOD data..."
+msgstr "Se încarcă date APOD noi..."
+
+msgid "Loading image..."
+msgstr "Se încarcă imaginea..."
+
+msgid "Loading..."
+msgstr "Încărcare..."
+
+msgid "NASA API Key:"
+msgstr "Cheia API NASA:"
+
+msgid "No data available. Check API key."
+msgstr "Nu există date disponibile. Verificați cheia API."
+
+msgid "No image URL available"
+msgstr "Nicio adresă URL a imaginii disponibilă"
+
+msgid "Number of APODs to fetch:"
+msgstr "Numărul de APOD de preluat:"
+
+msgid "Press OK to play video"
+msgstr "Apăsați OK pentru a reda videoclipul"
+
+msgid "Random"
+msgstr "aleatoriu"
+
+msgid "Recent (date range)"
+msgstr "Recent (interval de date)"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Search results: {}"
+msgstr "Rezultatele căutării: {}"
+
+msgid "Search..."
+msgstr "Căutare..."
+
+msgid "Sort order:"
+msgstr "Ordine de sortare:"
+
+msgid "Unsupported video URL"
+msgstr "Adresa URL a videoclipului neacceptată"
+
+msgid "Video playback failed"
+msgstr "Redarea video nu a reușit"

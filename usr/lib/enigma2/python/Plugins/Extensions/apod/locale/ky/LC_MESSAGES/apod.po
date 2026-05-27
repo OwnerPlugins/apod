@@ -1,0 +1,116 @@
+# apod translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apod\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 18:06+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Kirghiz <(nothing)>\n"
+"Language: ky\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "APOD Plugin Settings"
+msgstr "APOD плагин орнотуулары"
+
+msgid "Cancel"
+msgstr "Жокко чыгаруу"
+
+msgid "Error building list"
+msgstr "Тизмени түзүү катасы"
+
+msgid "Error displaying image"
+msgstr "Сүрөттү көрсөтүүдө ката кетти"
+
+msgid "Error downloading image: {}"
+msgstr "Сүрөттү жүктөөдө ката кетти: {}"
+
+msgid "Error loading data"
+msgstr "Дайындарды жүктөө катасы"
+
+msgid "Error loading data. Try later."
+msgstr "Дайындарды жүктөө катасы. Кийинчерээк аракет кылыңыз."
+
+msgid "Failed to download image"
+msgstr "Сүрөт жүктөлбөй калды"
+
+msgid "Failed to fetch image: HTTP {}"
+msgstr "Сүрөт алынбай калды: HTTP {}"
+
+msgid "Failed to load APOD"
+msgstr "APOD жүктөлгөн жок"
+
+msgid "Failed to load image."
+msgstr "Сүрөт жүктөлбөй калды."
+
+msgid "Fetch mode:"
+msgstr "Алып алуу режими:"
+
+msgid "Found"
+msgstr "Табылды"
+
+msgid "Found {} entries"
+msgstr "{} жазуу табылган"
+
+msgid "Image not available"
+msgstr "Сүрөт жеткиликтүү эмес"
+
+msgid "Invalid API Key! Please configure a valid NASA API key."
+msgstr "Жараксыз API ачкычы! Жарактуу NASA API ачкычын конфигурациялаңыз."
+
+msgid "Loading Astronomy Picture of the Day..."
+msgstr "Күндүн астрономиялык сүрөтү жүктөлүүдө..."
+
+msgid "Loading fresh APOD data..."
+msgstr "Жаңы APOD маалыматтары жүктөлүүдө..."
+
+msgid "Loading image..."
+msgstr "Сүрөт жүктөлүүдө..."
+
+msgid "Loading..."
+msgstr "Жүктөлүүдө..."
+
+msgid "NASA API Key:"
+msgstr "NASA API ачкычы:"
+
+msgid "No data available. Check API key."
+msgstr "Дайындар жок. API ачкычын текшерүү."
+
+msgid "No image URL available"
+msgstr "Сүрөт URL жок"
+
+msgid "Number of APODs to fetch:"
+msgstr "Алынуучу APODдардын саны:"
+
+msgid "Press OK to play video"
+msgstr "Видеону ойнотуу үчүн OK басыңыз"
+
+msgid "Random"
+msgstr "кокустук"
+
+msgid "Recent (date range)"
+msgstr "Акыркы (күн диапазону)"
+
+msgid "Save"
+msgstr "Сактоо"
+
+msgid "Search results: {}"
+msgstr "Издөө натыйжалары: {}"
+
+msgid "Search..."
+msgstr "Издөө..."
+
+msgid "Sort order:"
+msgstr "Сорттоо тартиби:"
+
+msgid "Unsupported video URL"
+msgstr "Колдоого алынбаган видео URL"
+
+msgid "Video playback failed"
+msgstr "Видео ойнотулбай калды"

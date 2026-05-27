@@ -1,0 +1,117 @@
+# apod translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apod\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 18:05+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Korean <translation-team-ko@googlegroups.com>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "APOD Plugin Settings"
+msgstr "APOD 플러그인 설정"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Error building list"
+msgstr "목록 작성 오류"
+
+msgid "Error displaying image"
+msgstr "이미지 표시 오류"
+
+msgid "Error downloading image: {}"
+msgstr "이미지 다운로드 중 오류 발생: {}"
+
+msgid "Error loading data"
+msgstr "데이터를 로드하는 중에 오류가 발생했습니다."
+
+msgid "Error loading data. Try later."
+msgstr "데이터를 로드하는 중에 오류가 발생했습니다. 나중에 시도해 보세요."
+
+msgid "Failed to download image"
+msgstr "이미지를 다운로드하지 못했습니다."
+
+msgid "Failed to fetch image: HTTP {}"
+msgstr "이미지를 가져오지 못했습니다: HTTP {}"
+
+msgid "Failed to load APOD"
+msgstr "APOD를 로드하지 못했습니다."
+
+msgid "Failed to load image."
+msgstr "이미지를 로드하지 못했습니다."
+
+msgid "Fetch mode:"
+msgstr "가져오기 모드:"
+
+msgid "Found"
+msgstr "설립하다"
+
+msgid "Found {} entries"
+msgstr "{}개의 항목을 찾았습니다."
+
+msgid "Image not available"
+msgstr "이미지를 사용할 수 없습니다."
+
+msgid "Invalid API Key! Please configure a valid NASA API key."
+msgstr "API 키가 잘못되었습니다! 유효한 NASA API 키를 구성하세요."
+
+msgid "Loading Astronomy Picture of the Day..."
+msgstr "오늘의 천문학 사진 로드 중..."
+
+msgid "Loading fresh APOD data..."
+msgstr "새로운 APOD 데이터 로드 중..."
+
+msgid "Loading image..."
+msgstr "이미지 로드 중..."
+
+msgid "Loading..."
+msgstr "로드 중..."
+
+msgid "NASA API Key:"
+msgstr "NASA API 키:"
+
+msgid "No data available. Check API key."
+msgstr "데이터가 없습니다. API 키를 확인하세요."
+
+msgid "No image URL available"
+msgstr "사용 가능한 이미지 URL이 없습니다."
+
+msgid "Number of APODs to fetch:"
+msgstr "가져올 APOD 수:"
+
+msgid "Press OK to play video"
+msgstr "동영상을 재생하려면 확인을 누르세요."
+
+msgid "Random"
+msgstr "무작위의"
+
+msgid "Recent (date range)"
+msgstr "최근(기간)"
+
+msgid "Save"
+msgstr "구하다"
+
+msgid "Search results: {}"
+msgstr "검색 결과: {}"
+
+msgid "Search..."
+msgstr "찾다..."
+
+msgid "Sort order:"
+msgstr "정렬 순서:"
+
+msgid "Unsupported video URL"
+msgstr "지원되지 않는 동영상 URL"
+
+msgid "Video playback failed"
+msgstr "비디오 재생 실패"

@@ -1,0 +1,116 @@
+# apod translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apod\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 18:10+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Maltese <translation-team-mt@lists.sourceforge.net>\n"
+"Language: mt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "APOD Plugin Settings"
+msgstr "Settings tal-Plugin APOD"
+
+msgid "Cancel"
+msgstr "Ikkanċella"
+
+msgid "Error building list"
+msgstr "Lista tal-bini ta' żball"
+
+msgid "Error displaying image"
+msgstr "Żball fil-wiri tal-immaġni"
+
+msgid "Error downloading image: {}"
+msgstr "Żball fit-tniżżil tal-immaġni: {}"
+
+msgid "Error loading data"
+msgstr "Żball fit-tagħbija tad-dejta"
+
+msgid "Error loading data. Try later."
+msgstr "Żball fit-tagħbija tad-dejta. Ipprova aktar tard."
+
+msgid "Failed to download image"
+msgstr "Naqas milli tniżżel l-immaġni"
+
+msgid "Failed to fetch image: HTTP {}"
+msgstr "Ma rnexxilux iġib l-immaġni: HTTP {}"
+
+msgid "Failed to load APOD"
+msgstr "Naqas milli tgħabbi l-APOD"
+
+msgid "Failed to load image."
+msgstr "Naqas milli tgħabbi l-immaġni."
+
+msgid "Fetch mode:"
+msgstr "Modalità tal-ġbir:"
+
+msgid "Found"
+msgstr "Misjuba"
+
+msgid "Found {} entries"
+msgstr "Sabu {} entrati"
+
+msgid "Image not available"
+msgstr "L-immaġni mhix disponibbli"
+
+msgid "Invalid API Key! Please configure a valid NASA API key."
+msgstr "Ċavetta API invalida! Jekk jogħġbok ikkonfigura ċavetta API tan-NASA valida."
+
+msgid "Loading Astronomy Picture of the Day..."
+msgstr "Tagħbija Stampa tal-Astronomija tal-Jum..."
+
+msgid "Loading fresh APOD data..."
+msgstr "Tagħbija dejta ġdida tal-APOD..."
+
+msgid "Loading image..."
+msgstr "Qiegħed l-immaġni..."
+
+msgid "Loading..."
+msgstr "Tagħbija..."
+
+msgid "NASA API Key:"
+msgstr "Ċavetta API tan-NASA:"
+
+msgid "No data available. Check API key."
+msgstr "Ebda data disponibbli. Iċċekkja ċ-ċavetta API."
+
+msgid "No image URL available"
+msgstr "Ebda URL tal-immaġni disponibbli"
+
+msgid "Number of APODs to fetch:"
+msgstr "Numru ta' APODs li jridu jġibu:"
+
+msgid "Press OK to play video"
+msgstr "Agħfas OK biex tilgħab il-vidjo"
+
+msgid "Random"
+msgstr "każwali"
+
+msgid "Recent (date range)"
+msgstr "Riċenti (firxa tad-data)"
+
+msgid "Save"
+msgstr "Ħlief"
+
+msgid "Search results: {}"
+msgstr "Riżultati tat-tfittxija: {}"
+
+msgid "Search..."
+msgstr "Fittex..."
+
+msgid "Sort order:"
+msgstr "Ordni tal-issortjar:"
+
+msgid "Unsupported video URL"
+msgstr "URL tal-vidjo mhux appoġġjat"
+
+msgid "Video playback failed"
+msgstr "Il-plejbek tal-vidjo falla"
