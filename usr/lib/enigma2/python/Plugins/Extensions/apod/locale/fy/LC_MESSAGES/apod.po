@@ -44,7 +44,7 @@ msgid "Failed to fetch image: HTTP {}"
 msgstr "It opheljen fan ôfbylding is mislearre: HTTP {}"
 
 msgid "Failed to load APOD"
-msgstr ""
+msgstr "It laden fan APOD mislearre"
 
 msgid "Failed to load image."
 msgstr "It laden fan ôfbylding is mislearre."
