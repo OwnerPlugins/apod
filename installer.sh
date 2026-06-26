@@ -200,7 +200,4 @@ IMAGE VERSION: ${distro_version:-Unknown}
 PLUGIN VERSION: $version
 EOF
 
-echo "Restarting enigma2 in 5 seconds..."
-sleep 5
-killall -9 enigma2
 exit 0
