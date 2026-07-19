@@ -447,7 +447,7 @@ class APODConfigScreen(ConfigListScreen, Screen):
     skin = """
         <screen name="APODConfigScreen" position="center,center" size="1280,720" title="APOD Plugin Settings" flags="wfNoBorder">
             <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/apod/res/icons/back.png" position="0,0" size="1280,720" alphatest="blend" zPosition="-1" />
-            <widget name="config" position="50,100" size="1180,500" scrollbarMode="showOnDemand" />
+            <widget name="config" position="50,100" size="1180,500" itemHeight="45" scrollbarMode="showOnDemand" />
             <widget name="key_green" position="250,620" size="250,50" font="Regular;30" halign="center" valign="center" backgroundColor="#008000" />
             <widget name="key_red" position="700,620" size="250,50" font="Regular;30" halign="center" valign="center" backgroundColor="#FF0000" />
             <widget name="title" position="50,40" size="1180,50" font="Regular;32" valign="center" halign="center" backgroundColor="#2a70a4" />
