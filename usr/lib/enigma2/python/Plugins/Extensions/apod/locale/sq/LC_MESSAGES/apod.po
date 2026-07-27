@@ -25,9 +25,6 @@ msgstr "Anulo"
 msgid "Error building list"
 msgstr "Gabim në listën e ndërtimit"
 
-msgid "Error displaying image"
-msgstr "Gabim në shfaqjen e imazhit"
-
 msgid "Error downloading image: {}"
 msgstr "Gabim gjatë shkarkimit të imazhit: {}"
 
@@ -37,17 +34,11 @@ msgstr "Gabim gjatë ngarkimit të të dhënave"
 msgid "Error loading data. Try later."
 msgstr "Gabim gjatë ngarkimit të të dhënave. Provo më vonë."
 
-msgid "Failed to download image"
-msgstr "Shkarkimi i imazhit dështoi"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Marrja e imazhit dështoi: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Ngarkimi i APOD dështoi"
-
-msgid "Failed to load image."
-msgstr "Ngarkimi i imazhit dështoi."
 
 msgid "Fetch mode:"
 msgstr "Modaliteti i tërheqjes:"
@@ -58,9 +49,6 @@ msgstr "Gjetur"
 msgid "Found {} entries"
 msgstr "U gjetën {} hyrje"
 
-msgid "Image not available"
-msgstr "Imazhi nuk disponohet"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Çelësi i pavlefshëm API! Ju lutemi konfiguroni një çelës të vlefshëm API të NASA-s."
 
@@ -69,9 +57,6 @@ msgstr "Fotografia e ditës nga astronomia po ngarkohet..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Po ngarkon të dhëna të reja APOD..."
-
-msgid "Loading image..."
-msgstr "Po ngarkohet imazhi..."
 
 msgid "Loading..."
 msgstr "Po ngarkohet..."
@@ -82,14 +67,8 @@ msgstr "Çelësi i NASA API:"
 msgid "No data available. Check API key."
 msgstr "Nuk ka të dhëna të disponueshme. Kontrollo tastin API."
 
-msgid "No image URL available"
-msgstr "Nuk disponohet URL e imazhit"
-
 msgid "Number of APODs to fetch:"
 msgstr "Numri i APOD-ve për të marrë:"
-
-msgid "Press OK to play video"
-msgstr "Shtypni OK për të luajtur video"
 
 msgid "Random"
 msgstr "e rastit"
@@ -109,8 +88,29 @@ msgstr "Kërko..."
 msgid "Sort order:"
 msgstr "Renditja e rendit:"
 
-msgid "Unsupported video URL"
-msgstr "URL e pambështetur e videos"
+#~ msgid "Error displaying image"
+#~ msgstr "Gabim në shfaqjen e imazhit"
 
-msgid "Video playback failed"
-msgstr "Rishikimi i videos dështoi"
+#~ msgid "Failed to download image"
+#~ msgstr "Shkarkimi i imazhit dështoi"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Ngarkimi i imazhit dështoi."
+
+#~ msgid "Image not available"
+#~ msgstr "Imazhi nuk disponohet"
+
+#~ msgid "Loading image..."
+#~ msgstr "Po ngarkohet imazhi..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Nuk disponohet URL e imazhit"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Shtypni OK për të luajtur video"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "URL e pambështetur e videos"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Rishikimi i videos dështoi"

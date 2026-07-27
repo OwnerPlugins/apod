@@ -25,9 +25,6 @@ msgstr "Batal"
 msgid "Error building list"
 msgstr "Ralat membina senarai"
 
-msgid "Error displaying image"
-msgstr "Ralat memaparkan imej"
-
 msgid "Error downloading image: {}"
 msgstr "Ralat memuat turun imej: {}"
 
@@ -37,17 +34,11 @@ msgstr "Ralat memuatkan data"
 msgid "Error loading data. Try later."
 msgstr "Ralat memuatkan data. Cuba nanti."
 
-msgid "Failed to download image"
-msgstr "Gagal memuat turun imej"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Gagal mengambil imej: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Gagal memuatkan APOD"
-
-msgid "Failed to load image."
-msgstr "Gagal memuatkan imej."
 
 msgid "Fetch mode:"
 msgstr "Mod ambil:"
@@ -58,9 +49,6 @@ msgstr "Dijumpai"
 msgid "Found {} entries"
 msgstr "Menjumpai masukan {}."
 
-msgid "Image not available"
-msgstr "Imej tidak tersedia"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Kunci API tidak sah! Sila konfigurasikan kunci API NASA yang sah."
 
@@ -69,9 +57,6 @@ msgstr "Memuatkan Gambar Astronomi Hari Ini..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Memuatkan data APOD baharu..."
-
-msgid "Loading image..."
-msgstr "Memuatkan imej..."
 
 msgid "Loading..."
 msgstr "Memuatkan..."
@@ -82,14 +67,8 @@ msgstr "Kunci API NASA:"
 msgid "No data available. Check API key."
 msgstr "Tiada data tersedia. Semak kunci API."
 
-msgid "No image URL available"
-msgstr "Tiada URL imej tersedia"
-
 msgid "Number of APODs to fetch:"
 msgstr "Bilangan APOD untuk diambil:"
-
-msgid "Press OK to play video"
-msgstr "Tekan OK untuk memainkan video"
 
 msgid "Random"
 msgstr "rawak"
@@ -109,8 +88,29 @@ msgstr "Cari..."
 msgid "Sort order:"
 msgstr "Susun urutan:"
 
-msgid "Unsupported video URL"
-msgstr "URL video tidak disokong"
+#~ msgid "Error displaying image"
+#~ msgstr "Ralat memaparkan imej"
 
-msgid "Video playback failed"
-msgstr "Main balik video gagal"
+#~ msgid "Failed to download image"
+#~ msgstr "Gagal memuat turun imej"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Gagal memuatkan imej."
+
+#~ msgid "Image not available"
+#~ msgstr "Imej tidak tersedia"
+
+#~ msgid "Loading image..."
+#~ msgstr "Memuatkan imej..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Tiada URL imej tersedia"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Tekan OK untuk memainkan video"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "URL video tidak disokong"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Main balik video gagal"

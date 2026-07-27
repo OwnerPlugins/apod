@@ -26,9 +26,6 @@ msgstr "Mégsem"
 msgid "Error building list"
 msgstr "Hiba a lista felépítésében"
 
-msgid "Error displaying image"
-msgstr "Hiba a kép megjelenítése során"
-
 msgid "Error downloading image: {}"
 msgstr "Hiba a kép letöltése közben: {}"
 
@@ -38,17 +35,11 @@ msgstr "Hiba az adatok betöltésekor"
 msgid "Error loading data. Try later."
 msgstr "Hiba az adatok betöltésekor. Próbáld meg később."
 
-msgid "Failed to download image"
-msgstr "Nem sikerült letölteni a képet"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Nem sikerült lekérni a képet: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Nem sikerült betölteni az APOD-t"
-
-msgid "Failed to load image."
-msgstr "Nem sikerült betölteni a képet."
 
 msgid "Fetch mode:"
 msgstr "Lekérési mód:"
@@ -59,9 +50,6 @@ msgstr "Talált"
 msgid "Found {} entries"
 msgstr "{} bejegyzés található"
 
-msgid "Image not available"
-msgstr "A kép nem érhető el"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Érvénytelen API-kulcs! Kérjük, állítson be érvényes NASA API-kulcsot."
 
@@ -70,9 +58,6 @@ msgstr "A nap csillagászati ​​képének betöltése..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Friss APOD adatok betöltése..."
-
-msgid "Loading image..."
-msgstr "Kép betöltése..."
 
 msgid "Loading..."
 msgstr "Terhelés..."
@@ -83,14 +68,8 @@ msgstr "NASA API kulcs:"
 msgid "No data available. Check API key."
 msgstr "Nincs adat. Ellenőrizze az API kulcsot."
 
-msgid "No image URL available"
-msgstr "Nem érhető el kép URL-je"
-
 msgid "Number of APODs to fetch:"
 msgstr "A letöltendő APOD-k száma:"
-
-msgid "Press OK to play video"
-msgstr "Nyomja meg az OK gombot a videó lejátszásához"
 
 msgid "Random"
 msgstr "véletlen"
@@ -110,8 +89,29 @@ msgstr "Keresés..."
 msgid "Sort order:"
 msgstr "Rendezési sorrend:"
 
-msgid "Unsupported video URL"
-msgstr "Nem támogatott videó URL"
+#~ msgid "Error displaying image"
+#~ msgstr "Hiba a kép megjelenítése során"
 
-msgid "Video playback failed"
-msgstr "A videó lejátszása nem sikerült"
+#~ msgid "Failed to download image"
+#~ msgstr "Nem sikerült letölteni a képet"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Nem sikerült betölteni a képet."
+
+#~ msgid "Image not available"
+#~ msgstr "A kép nem érhető el"
+
+#~ msgid "Loading image..."
+#~ msgstr "Kép betöltése..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Nem érhető el kép URL-je"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Nyomja meg az OK gombot a videó lejátszásához"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Nem támogatott videó URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "A videó lejátszása nem sikerült"

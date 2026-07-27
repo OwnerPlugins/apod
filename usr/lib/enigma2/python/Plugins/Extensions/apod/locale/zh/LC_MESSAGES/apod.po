@@ -25,9 +25,6 @@ msgstr "取消"
 msgid "Error building list"
 msgstr "构建列表时出错"
 
-msgid "Error displaying image"
-msgstr "显示图像时出错"
-
 msgid "Error downloading image: {}"
 msgstr "下载图像时出错：{}"
 
@@ -37,17 +34,11 @@ msgstr "加载数据时出错"
 msgid "Error loading data. Try later."
 msgstr "加载数据时出错。稍后再尝试。"
 
-msgid "Failed to download image"
-msgstr "下载图片失败"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "无法获取图像：HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "加载 APOD 失败"
-
-msgid "Failed to load image."
-msgstr "加载图像失败。"
 
 msgid "Fetch mode:"
 msgstr "获取模式："
@@ -58,9 +49,6 @@ msgstr "成立"
 msgid "Found {} entries"
 msgstr "找到 {} 个条目"
 
-msgid "Image not available"
-msgstr "图片不可用"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "API 密钥无效！请配置有效的 NASA API 密钥。"
 
@@ -69,9 +57,6 @@ msgstr "正在加载当天的天文图片..."
 
 msgid "Loading fresh APOD data..."
 msgstr "正在加载新的 APOD 数据..."
-
-msgid "Loading image..."
-msgstr "加载图片..."
 
 msgid "Loading..."
 msgstr "加载中..."
@@ -82,14 +67,8 @@ msgstr "美国宇航局 API 密钥："
 msgid "No data available. Check API key."
 msgstr "无可用数据。检查 API 密钥。"
 
-msgid "No image URL available"
-msgstr "没有可用的图像 URL"
-
 msgid "Number of APODs to fetch:"
 msgstr "要获取的 APOD 数量："
-
-msgid "Press OK to play video"
-msgstr "按确定播放视频"
 
 msgid "Random"
 msgstr "随机的"
@@ -109,8 +88,29 @@ msgstr "搜索..."
 msgid "Sort order:"
 msgstr "排序顺序："
 
-msgid "Unsupported video URL"
-msgstr "不支持的视频网址"
+#~ msgid "Error displaying image"
+#~ msgstr "显示图像时出错"
 
-msgid "Video playback failed"
-msgstr "视频播放失败"
+#~ msgid "Failed to download image"
+#~ msgstr "下载图片失败"
+
+#~ msgid "Failed to load image."
+#~ msgstr "加载图像失败。"
+
+#~ msgid "Image not available"
+#~ msgstr "图片不可用"
+
+#~ msgid "Loading image..."
+#~ msgstr "加载图片..."
+
+#~ msgid "No image URL available"
+#~ msgstr "没有可用的图像 URL"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "按确定播放视频"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "不支持的视频网址"
+
+#~ msgid "Video playback failed"
+#~ msgstr "视频播放失败"

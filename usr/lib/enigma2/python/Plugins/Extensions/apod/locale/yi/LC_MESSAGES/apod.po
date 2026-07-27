@@ -25,9 +25,6 @@ msgstr "באָטל מאַכן"
 msgid "Error building list"
 msgstr "טעות בילדינג רשימה"
 
-msgid "Error displaying image"
-msgstr "טעות ווייזן בילד"
-
 msgid "Error downloading image: {}"
 msgstr "טעות דאַונלאָודינג בילד: {}"
 
@@ -37,17 +34,11 @@ msgstr "טעות לאָודינג דאַטן"
 msgid "Error loading data. Try later."
 msgstr "טעות לאָודינג דאַטן. פּרוּווט שפּעטער."
 
-msgid "Failed to download image"
-msgstr "ניט אַנדערש צו אָפּלאָדירן בילד"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "ניט געקענט ברענגען בילד: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "ניט אַנדערש צו לאָדן APOD"
-
-msgid "Failed to load image."
-msgstr "ניט אַנדערש צו לאָדן בילד."
 
 msgid "Fetch mode:"
 msgstr "ברענגען מאָדע:"
@@ -58,9 +49,6 @@ msgstr "געפונען"
 msgid "Found {} entries"
 msgstr "געפונען {} איינסן"
 
-msgid "Image not available"
-msgstr "בילד ניט בנימצא"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "אומגילטיגע API שליסל! ביטע קאַנפיגיער אַ גילטיק נאַסאַ אַפּי שליסל."
 
@@ -69,9 +57,6 @@ msgstr "לאָודינג אַסטראָנאָמיע בילד פון דעם טא�
 
 msgid "Loading fresh APOD data..."
 msgstr "לאָודינג פריש APOD דאַטן ..."
-
-msgid "Loading image..."
-msgstr "לאָדן בילד..."
 
 msgid "Loading..."
 msgstr "לאָדן..."
@@ -82,14 +67,8 @@ msgstr "NASA API שליסל:"
 msgid "No data available. Check API key."
 msgstr "קיין דאַטן בנימצא. קוק די API שליסל."
 
-msgid "No image URL available"
-msgstr "קיין בילד URL בנימצא"
-
 msgid "Number of APODs to fetch:"
 msgstr "נומער פון APODs צו ברענגען:"
-
-msgid "Press OK to play video"
-msgstr "דרוק OK צו שפּילן ווידעא"
 
 msgid "Random"
 msgstr "טראַפ"
@@ -109,8 +88,29 @@ msgstr "זוך..."
 msgid "Sort order:"
 msgstr "סאָרט סדר:"
 
-msgid "Unsupported video URL"
-msgstr "ניט שטיצט ווידעא URL"
+#~ msgid "Error displaying image"
+#~ msgstr "טעות ווייזן בילד"
 
-msgid "Video playback failed"
-msgstr "ווידעא פּלייבאַק ניט אַנדערש"
+#~ msgid "Failed to download image"
+#~ msgstr "ניט אַנדערש צו אָפּלאָדירן בילד"
+
+#~ msgid "Failed to load image."
+#~ msgstr "ניט אַנדערש צו לאָדן בילד."
+
+#~ msgid "Image not available"
+#~ msgstr "בילד ניט בנימצא"
+
+#~ msgid "Loading image..."
+#~ msgstr "לאָדן בילד..."
+
+#~ msgid "No image URL available"
+#~ msgstr "קיין בילד URL בנימצא"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "דרוק OK צו שפּילן ווידעא"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "ניט שטיצט ווידעא URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "ווידעא פּלייבאַק ניט אַנדערש"

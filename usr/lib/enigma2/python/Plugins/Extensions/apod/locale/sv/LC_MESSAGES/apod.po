@@ -26,9 +26,6 @@ msgstr "Avboka"
 msgid "Error building list"
 msgstr "Fel på byggnadslistan"
 
-msgid "Error displaying image"
-msgstr "Det gick inte att visa bilden"
-
 msgid "Error downloading image: {}"
 msgstr "Fel vid nedladdning av bild: {}"
 
@@ -38,17 +35,11 @@ msgstr "Det gick inte att ladda data"
 msgid "Error loading data. Try later."
 msgstr "Det gick inte att ladda data. Försök senare."
 
-msgid "Failed to download image"
-msgstr "Det gick inte att ladda ner bilden"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Det gick inte att hämta bilden: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Det gick inte att ladda APOD"
-
-msgid "Failed to load image."
-msgstr "Det gick inte att ladda bilden."
 
 msgid "Fetch mode:"
 msgstr "Hämta läge:"
@@ -59,9 +50,6 @@ msgstr "Hittade"
 msgid "Found {} entries"
 msgstr "Hittade {} poster"
 
-msgid "Image not available"
-msgstr "Bild inte tillgänglig"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Ogiltig API-nyckel! Vänligen konfigurera en giltig NASA API-nyckel."
 
@@ -70,9 +58,6 @@ msgstr "Laddar dagens astronomibild..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Laddar färsk APOD-data..."
-
-msgid "Loading image..."
-msgstr "Laddar bild..."
 
 msgid "Loading..."
 msgstr "Belastning..."
@@ -83,14 +68,8 @@ msgstr "NASA API-nyckel:"
 msgid "No data available. Check API key."
 msgstr "Inga data tillgängliga. Kontrollera API-nyckeln."
 
-msgid "No image URL available"
-msgstr "Ingen bild-URL tillgänglig"
-
 msgid "Number of APODs to fetch:"
 msgstr "Antal APODs att hämta:"
-
-msgid "Press OK to play video"
-msgstr "Tryck på OK för att spela upp video"
 
 msgid "Random"
 msgstr "slumpmässig"
@@ -110,8 +89,29 @@ msgstr "Söka..."
 msgid "Sort order:"
 msgstr "Sorteringsordning:"
 
-msgid "Unsupported video URL"
-msgstr "Video-URL som inte stöds"
+#~ msgid "Error displaying image"
+#~ msgstr "Det gick inte att visa bilden"
 
-msgid "Video playback failed"
-msgstr "Videouppspelning misslyckades"
+#~ msgid "Failed to download image"
+#~ msgstr "Det gick inte att ladda ner bilden"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Det gick inte att ladda bilden."
+
+#~ msgid "Image not available"
+#~ msgstr "Bild inte tillgänglig"
+
+#~ msgid "Loading image..."
+#~ msgstr "Laddar bild..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Ingen bild-URL tillgänglig"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Tryck på OK för att spela upp video"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Video-URL som inte stöds"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Videouppspelning misslyckades"

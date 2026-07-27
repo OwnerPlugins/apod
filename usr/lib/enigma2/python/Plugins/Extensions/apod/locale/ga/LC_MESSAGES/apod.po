@@ -26,9 +26,6 @@ msgstr "Cealaigh"
 msgid "Error building list"
 msgstr "Earráid agus liosta á thógáil"
 
-msgid "Error displaying image"
-msgstr "Earráid agus íomhá á taispeáint"
-
 msgid "Error downloading image: {}"
 msgstr "Earráid agus an íomhá á híoslódáil: {}"
 
@@ -38,17 +35,11 @@ msgstr "Earráid agus sonraí á lódáil"
 msgid "Error loading data. Try later."
 msgstr "Earráid agus sonraí á lódáil. Bain triail as níos déanaí."
 
-msgid "Failed to download image"
-msgstr "Theip ar an íomhá a íoslódáil"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Theip ar an íomhá a fháil: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Theip ar lódáil APOD"
-
-msgid "Failed to load image."
-msgstr "Theip ar lódáil an íomhá."
 
 msgid "Fetch mode:"
 msgstr "Mód beir:"
@@ -59,9 +50,6 @@ msgstr "Aimsíodh"
 msgid "Found {} entries"
 msgstr "Aimsíodh {} iontráil"
 
-msgid "Image not available"
-msgstr "Níl an íomhá ar fáil"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Eochair API neamhbhailí! Cumraigh eochair API NASA bhailí."
 
@@ -70,9 +58,6 @@ msgstr "Íoslódáil an pictiúr ar an réalteolaíocht. ."
 
 msgid "Loading fresh APOD data..."
 msgstr "Sonraí APOD úra á lódáil..."
-
-msgid "Loading image..."
-msgstr "Íomhá á lódáil…"
 
 msgid "Loading..."
 msgstr "Á lódáil..."
@@ -83,14 +68,8 @@ msgstr "Eochair API NASA:"
 msgid "No data available. Check API key."
 msgstr "Níl aon sonraí ar fáil. Seiceáil eochair API."
 
-msgid "No image URL available"
-msgstr "Níl URL íomhá ar fáil"
-
 msgid "Number of APODs to fetch:"
 msgstr "Líon na APODanna le fáil:"
-
-msgid "Press OK to play video"
-msgstr "Brúigh OK chun físeán a sheinm"
 
 msgid "Random"
 msgstr "fánach"
@@ -110,8 +89,29 @@ msgstr "Cuardach..."
 msgid "Sort order:"
 msgstr "Ordú sórtála:"
 
-msgid "Unsupported video URL"
-msgstr "URL físeán gan tacaíocht"
+#~ msgid "Error displaying image"
+#~ msgstr "Earráid agus íomhá á taispeáint"
 
-msgid "Video playback failed"
-msgstr "Theip ar athsheinm físe"
+#~ msgid "Failed to download image"
+#~ msgstr "Theip ar an íomhá a íoslódáil"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Theip ar lódáil an íomhá."
+
+#~ msgid "Image not available"
+#~ msgstr "Níl an íomhá ar fáil"
+
+#~ msgid "Loading image..."
+#~ msgstr "Íomhá á lódáil…"
+
+#~ msgid "No image URL available"
+#~ msgstr "Níl URL íomhá ar fáil"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Brúigh OK chun físeán a sheinm"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "URL físeán gan tacaíocht"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Theip ar athsheinm físe"

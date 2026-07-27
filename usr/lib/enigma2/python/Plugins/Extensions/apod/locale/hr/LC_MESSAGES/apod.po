@@ -26,9 +26,6 @@ msgstr "Otkazati"
 msgid "Error building list"
 msgstr "Pogreška pri izradi popisa"
 
-msgid "Error displaying image"
-msgstr "Pogreška pri prikazivanju slike"
-
 msgid "Error downloading image: {}"
 msgstr "Pogreška pri preuzimanju slike: {}"
 
@@ -38,17 +35,11 @@ msgstr "Pogreška pri učitavanju podataka"
 msgid "Error loading data. Try later."
 msgstr "Pogreška pri učitavanju podataka. Pokušajte kasnije."
 
-msgid "Failed to download image"
-msgstr "Preuzimanje slike nije uspjelo"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Nije uspjelo dohvaćanje slike: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Učitavanje APOD-a nije uspjelo"
-
-msgid "Failed to load image."
-msgstr "Učitavanje slike nije uspjelo."
 
 msgid "Fetch mode:"
 msgstr "Način dohvaćanja:"
@@ -59,9 +50,6 @@ msgstr "Pronađeno"
 msgid "Found {} entries"
 msgstr "Pronađeno {} unosa"
 
-msgid "Image not available"
-msgstr "Slika nije dostupna"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Nevažeći API ključ! Molimo konfigurirajte važeći NASA API ključ."
 
@@ -70,9 +58,6 @@ msgstr "Učitavanje astronomske slike dana..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Učitavanje svježih APOD podataka..."
-
-msgid "Loading image..."
-msgstr "Učitavanje slike..."
 
 msgid "Loading..."
 msgstr "Učitavanje..."
@@ -83,14 +68,8 @@ msgstr "NASA API ključ:"
 msgid "No data available. Check API key."
 msgstr "Nema dostupnih podataka. Provjerite API ključ."
 
-msgid "No image URL available"
-msgstr "URL slike nije dostupan"
-
 msgid "Number of APODs to fetch:"
 msgstr "Broj APOD-ova za dohvaćanje:"
-
-msgid "Press OK to play video"
-msgstr "Pritisnite OK za reprodukciju videa"
 
 msgid "Random"
 msgstr "slučajan"
@@ -110,8 +89,29 @@ msgstr "Pretraživanje..."
 msgid "Sort order:"
 msgstr "Redoslijed sortiranja:"
 
-msgid "Unsupported video URL"
-msgstr "URL videozapisa nije podržan"
+#~ msgid "Error displaying image"
+#~ msgstr "Pogreška pri prikazivanju slike"
 
-msgid "Video playback failed"
-msgstr "Video reprodukcija nije uspjela"
+#~ msgid "Failed to download image"
+#~ msgstr "Preuzimanje slike nije uspjelo"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Učitavanje slike nije uspjelo."
+
+#~ msgid "Image not available"
+#~ msgstr "Slika nije dostupna"
+
+#~ msgid "Loading image..."
+#~ msgstr "Učitavanje slike..."
+
+#~ msgid "No image URL available"
+#~ msgstr "URL slike nije dostupan"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Pritisnite OK za reprodukciju videa"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "URL videozapisa nije podržan"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Video reprodukcija nije uspjela"

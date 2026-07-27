@@ -25,9 +25,6 @@ msgstr "Жокко чыгаруу"
 msgid "Error building list"
 msgstr "Тизмени түзүү катасы"
 
-msgid "Error displaying image"
-msgstr "Сүрөттү көрсөтүүдө ката кетти"
-
 msgid "Error downloading image: {}"
 msgstr "Сүрөттү жүктөөдө ката кетти: {}"
 
@@ -37,17 +34,11 @@ msgstr "Дайындарды жүктөө катасы"
 msgid "Error loading data. Try later."
 msgstr "Дайындарды жүктөө катасы. Кийинчерээк аракет кылыңыз."
 
-msgid "Failed to download image"
-msgstr "Сүрөт жүктөлбөй калды"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Сүрөт алынбай калды: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "APOD жүктөлгөн жок"
-
-msgid "Failed to load image."
-msgstr "Сүрөт жүктөлбөй калды."
 
 msgid "Fetch mode:"
 msgstr "Алып алуу режими:"
@@ -58,9 +49,6 @@ msgstr "Табылды"
 msgid "Found {} entries"
 msgstr "{} жазуу табылган"
 
-msgid "Image not available"
-msgstr "Сүрөт жеткиликтүү эмес"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Жараксыз API ачкычы! Жарактуу NASA API ачкычын конфигурациялаңыз."
 
@@ -69,9 +57,6 @@ msgstr "Күндүн астрономиялык сүрөтү жүктөлүүд�
 
 msgid "Loading fresh APOD data..."
 msgstr "Жаңы APOD маалыматтары жүктөлүүдө..."
-
-msgid "Loading image..."
-msgstr "Сүрөт жүктөлүүдө..."
 
 msgid "Loading..."
 msgstr "Жүктөлүүдө..."
@@ -82,14 +67,8 @@ msgstr "NASA API ачкычы:"
 msgid "No data available. Check API key."
 msgstr "Дайындар жок. API ачкычын текшерүү."
 
-msgid "No image URL available"
-msgstr "Сүрөт URL жок"
-
 msgid "Number of APODs to fetch:"
 msgstr "Алынуучу APODдардын саны:"
-
-msgid "Press OK to play video"
-msgstr "Видеону ойнотуу үчүн OK басыңыз"
 
 msgid "Random"
 msgstr "кокустук"
@@ -109,8 +88,29 @@ msgstr "Издөө..."
 msgid "Sort order:"
 msgstr "Сорттоо тартиби:"
 
-msgid "Unsupported video URL"
-msgstr "Колдоого алынбаган видео URL"
+#~ msgid "Error displaying image"
+#~ msgstr "Сүрөттү көрсөтүүдө ката кетти"
 
-msgid "Video playback failed"
-msgstr "Видео ойнотулбай калды"
+#~ msgid "Failed to download image"
+#~ msgstr "Сүрөт жүктөлбөй калды"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Сүрөт жүктөлбөй калды."
+
+#~ msgid "Image not available"
+#~ msgstr "Сүрөт жеткиликтүү эмес"
+
+#~ msgid "Loading image..."
+#~ msgstr "Сүрөт жүктөлүүдө..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Сүрөт URL жок"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Видеону ойнотуу үчүн OK басыңыз"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Колдоого алынбаган видео URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Видео ойнотулбай калды"

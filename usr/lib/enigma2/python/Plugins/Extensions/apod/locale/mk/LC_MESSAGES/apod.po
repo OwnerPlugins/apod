@@ -25,9 +25,6 @@ msgstr "Откажи"
 msgid "Error building list"
 msgstr "Грешка при градење список"
 
-msgid "Error displaying image"
-msgstr "Грешка при прикажување на сликата"
-
 msgid "Error downloading image: {}"
 msgstr "Грешка при преземањето на сликата: {}"
 
@@ -37,17 +34,11 @@ msgstr "Грешка при вчитување на податоците"
 msgid "Error loading data. Try later."
 msgstr "Грешка при вчитување на податоците. Обидете се подоцна."
 
-msgid "Failed to download image"
-msgstr "Сликата не успеа да се преземе"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Не успеа да се преземе сликата: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Не успеа да се вчита APOD"
-
-msgid "Failed to load image."
-msgstr "Не успеа да се вчита сликата."
 
 msgid "Fetch mode:"
 msgstr "Режим на преземање:"
@@ -58,9 +49,6 @@ msgstr "Пронајден"
 msgid "Found {} entries"
 msgstr "Најдени се {} записи"
 
-msgid "Image not available"
-msgstr "Сликата не е достапна"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Неважечки API клуч! Конфигурирајте важечки клуч на NASA API."
 
@@ -69,9 +57,6 @@ msgstr "Се вчитува астрономска слика на денот...
 
 msgid "Loading fresh APOD data..."
 msgstr "Се вчитуваат свежи податоци на APOD..."
-
-msgid "Loading image..."
-msgstr "Се вчитува слика..."
 
 msgid "Loading..."
 msgstr "Се вчитува..."
@@ -82,14 +67,8 @@ msgstr "Клуч на НАСА API:"
 msgid "No data available. Check API key."
 msgstr "Нема достапни податоци. Проверете го клучот API."
 
-msgid "No image URL available"
-msgstr "Нема достапна URL-адреса на сликата"
-
 msgid "Number of APODs to fetch:"
 msgstr "Број на APOD за преземање:"
-
-msgid "Press OK to play video"
-msgstr "Притиснете ОК за да се репродуцира видео"
 
 msgid "Random"
 msgstr "по случаен избор"
@@ -109,8 +88,29 @@ msgstr "Барај..."
 msgid "Sort order:"
 msgstr "Редоследот на подредување:"
 
-msgid "Unsupported video URL"
-msgstr "Неподдржана URL адреса на видео"
+#~ msgid "Error displaying image"
+#~ msgstr "Грешка при прикажување на сликата"
 
-msgid "Video playback failed"
-msgstr "Репродукцијата на видеото не успеа"
+#~ msgid "Failed to download image"
+#~ msgstr "Сликата не успеа да се преземе"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Не успеа да се вчита сликата."
+
+#~ msgid "Image not available"
+#~ msgstr "Сликата не е достапна"
+
+#~ msgid "Loading image..."
+#~ msgstr "Се вчитува слика..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Нема достапна URL-адреса на сликата"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Притиснете ОК за да се репродуцира видео"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Неподдржана URL адреса на видео"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Репродукцијата на видеото не успеа"

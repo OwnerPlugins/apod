@@ -26,9 +26,6 @@ msgstr "キャンセル"
 msgid "Error building list"
 msgstr "リスト作成エラー"
 
-msgid "Error displaying image"
-msgstr "画像表示エラー"
-
 msgid "Error downloading image: {}"
 msgstr "画像のダウンロード中にエラーが発生しました: {}"
 
@@ -38,17 +35,11 @@ msgstr "データのロード中にエラーが発生しました"
 msgid "Error loading data. Try later."
 msgstr "データのロード中にエラーが発生しました。後で試してください。"
 
-msgid "Failed to download image"
-msgstr "画像のダウンロードに失敗しました"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "画像の取得に失敗しました: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "APODのロードに失敗しました"
-
-msgid "Failed to load image."
-msgstr "画像の読み込みに失敗しました。"
 
 msgid "Fetch mode:"
 msgstr "フェッチモード:"
@@ -59,9 +50,6 @@ msgstr "見つかった"
 msgid "Found {} entries"
 msgstr "{} 個のエントリが見つかりました"
 
-msgid "Image not available"
-msgstr "画像がありません"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "API キーが無効です!有効な NASA API キーを構成してください。"
 
@@ -70,9 +58,6 @@ msgstr "今日の天文写真を読み込んでいます..."
 
 msgid "Loading fresh APOD data..."
 msgstr "新しい APOD データをロードしています..."
-
-msgid "Loading image..."
-msgstr "画像を読み込んでいます..."
 
 msgid "Loading..."
 msgstr "読み込み中..."
@@ -83,14 +68,8 @@ msgstr "NASA API キー:"
 msgid "No data available. Check API key."
 msgstr "利用可能なデータはありません。 APIキーを確認してください。"
 
-msgid "No image URL available"
-msgstr "利用可能な画像 URL がありません"
-
 msgid "Number of APODs to fetch:"
 msgstr "フェッチする APOD の数:"
-
-msgid "Press OK to play video"
-msgstr "OKを押してビデオを再生します"
 
 msgid "Random"
 msgstr "ランダム"
@@ -110,8 +89,29 @@ msgstr "検索..."
 msgid "Sort order:"
 msgstr "並べ替え順序:"
 
-msgid "Unsupported video URL"
-msgstr "サポートされていないビデオ URL"
+#~ msgid "Error displaying image"
+#~ msgstr "画像表示エラー"
 
-msgid "Video playback failed"
-msgstr "ビデオの再生に失敗しました"
+#~ msgid "Failed to download image"
+#~ msgstr "画像のダウンロードに失敗しました"
+
+#~ msgid "Failed to load image."
+#~ msgstr "画像の読み込みに失敗しました。"
+
+#~ msgid "Image not available"
+#~ msgstr "画像がありません"
+
+#~ msgid "Loading image..."
+#~ msgstr "画像を読み込んでいます..."
+
+#~ msgid "No image URL available"
+#~ msgstr "利用可能な画像 URL がありません"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "OKを押してビデオを再生します"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "サポートされていないビデオ URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "ビデオの再生に失敗しました"

@@ -25,9 +25,6 @@ msgstr "ሰርዝ"
 msgid "Error building list"
 msgstr "የግንባታ ዝርዝር ስህተት"
 
-msgid "Error displaying image"
-msgstr "ምስል በማሳየት ላይ ስህተት"
-
 msgid "Error downloading image: {}"
 msgstr "ምስል በማውረድ ላይ ስህተት፦ {}"
 
@@ -37,17 +34,11 @@ msgstr "ውሂብ መጫን ላይ ስህተት"
 msgid "Error loading data. Try later."
 msgstr "ውሂብ መጫን ላይ ስህተት። በኋላ ይሞክሩ።"
 
-msgid "Failed to download image"
-msgstr "ምስል ማውረድ አልተሳካም።"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "ምስል ማምጣት አልተቻለም፡ HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "APODን መጫን አልተሳካም።"
-
-msgid "Failed to load image."
-msgstr "ምስል መጫን አልተሳካም።"
 
 msgid "Fetch mode:"
 msgstr "የማምጣት ሁነታ፡"
@@ -58,9 +49,6 @@ msgstr "ተገኝቷል"
 msgid "Found {} entries"
 msgstr "የተገኙ {} ግቤቶች"
 
-msgid "Image not available"
-msgstr "ምስል አይገኝም"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "ልክ ያልሆነ የኤፒአይ ቁልፍ! እባክዎ የሚሰራ የናሳ ኤፒአይ ቁልፍ ያዋቅሩ።"
 
@@ -69,9 +57,6 @@ msgstr "የእለቱ የስነ ፈለክ ምስልን በመጫን ላይ..."
 
 msgid "Loading fresh APOD data..."
 msgstr "ትኩስ የAPOD ውሂብን በመጫን ላይ..."
-
-msgid "Loading image..."
-msgstr "ምስልን በመጫን ላይ..."
 
 msgid "Loading..."
 msgstr "በመጫን ላይ..."
@@ -82,14 +67,8 @@ msgstr "የናሳ ኤፒአይ ቁልፍ፡-"
 msgid "No data available. Check API key."
 msgstr "ምንም ውሂብ አይገኝም። የኤፒአይ ቁልፍን ያረጋግጡ።"
 
-msgid "No image URL available"
-msgstr "ምንም የምስል URL አይገኝም"
-
 msgid "Number of APODs to fetch:"
 msgstr "ለማምጣት የAPODዎች ብዛት፡-"
-
-msgid "Press OK to play video"
-msgstr "ቪዲዮ ለማጫወት እሺን ይጫኑ"
 
 msgid "Random"
 msgstr "በዘፈቀደ"
@@ -109,8 +88,29 @@ msgstr "ፈልግ..."
 msgid "Sort order:"
 msgstr "ቅደም ተከተል ደርድር፡-"
 
-msgid "Unsupported video URL"
-msgstr "የማይደገፍ የቪዲዮ URL"
+#~ msgid "Error displaying image"
+#~ msgstr "ምስል በማሳየት ላይ ስህተት"
 
-msgid "Video playback failed"
-msgstr "የቪዲዮ መልሶ ማጫወት አልተሳካም።"
+#~ msgid "Failed to download image"
+#~ msgstr "ምስል ማውረድ አልተሳካም።"
+
+#~ msgid "Failed to load image."
+#~ msgstr "ምስል መጫን አልተሳካም።"
+
+#~ msgid "Image not available"
+#~ msgstr "ምስል አይገኝም"
+
+#~ msgid "Loading image..."
+#~ msgstr "ምስልን በመጫን ላይ..."
+
+#~ msgid "No image URL available"
+#~ msgstr "ምንም የምስል URL አይገኝም"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "ቪዲዮ ለማጫወት እሺን ይጫኑ"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "የማይደገፍ የቪዲዮ URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "የቪዲዮ መልሶ ማጫወት አልተሳካም።"

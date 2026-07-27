@@ -25,9 +25,6 @@ msgstr "રદ કરો"
 msgid "Error building list"
 msgstr "યાદી બનાવવામાં ભૂલ"
 
-msgid "Error displaying image"
-msgstr "છબી પ્રદર્શિત કરવામાં ભૂલ"
-
 msgid "Error downloading image: {}"
 msgstr "છબી ડાઉનલોડ કરવામાં ભૂલ: {}"
 
@@ -37,17 +34,11 @@ msgstr "ડેટા લોડ કરવામાં ભૂલ"
 msgid "Error loading data. Try later."
 msgstr "ડેટા લોડ કરવામાં ભૂલ. પછીથી પ્રયાસ કરો."
 
-msgid "Failed to download image"
-msgstr "છબી ડાઉનલોડ કરવામાં નિષ્ફળ"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "છબી લાવવામાં નિષ્ફળ: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "APOD લોડ કરવામાં નિષ્ફળ"
-
-msgid "Failed to load image."
-msgstr "છબી લોડ કરવામાં નિષ્ફળ."
 
 msgid "Fetch mode:"
 msgstr "આનયન મોડ:"
@@ -58,9 +49,6 @@ msgstr "મળી"
 msgid "Found {} entries"
 msgstr "{} એન્ટ્રીઓ મળી"
 
-msgid "Image not available"
-msgstr "છબી ઉપલબ્ધ નથી"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "અમાન્ય API કી! કૃપા કરીને માન્ય NASA API કીને ગોઠવો."
 
@@ -69,9 +57,6 @@ msgstr "દિવસનું ખગોળશાસ્ત્ર ચિત્ર 
 
 msgid "Loading fresh APOD data..."
 msgstr "તાજો APOD ડેટા લોડ કરી રહ્યું છે..."
-
-msgid "Loading image..."
-msgstr "છબી લોડ કરી રહ્યું છે..."
 
 msgid "Loading..."
 msgstr "લોડ કરી રહ્યું છે..."
@@ -82,14 +67,8 @@ msgstr "NASA API કી:"
 msgid "No data available. Check API key."
 msgstr "કોઈ ડેટા ઉપલબ્ધ નથી. API કી તપાસો."
 
-msgid "No image URL available"
-msgstr "કોઈ છબી URL ઉપલબ્ધ નથી"
-
 msgid "Number of APODs to fetch:"
 msgstr "મેળવવા માટે APOD ની સંખ્યા:"
-
-msgid "Press OK to play video"
-msgstr "વિડિઓ ચલાવવા માટે બરાબર દબાવો"
 
 msgid "Random"
 msgstr "રેન્ડમ"
@@ -109,8 +88,29 @@ msgstr "શોધો..."
 msgid "Sort order:"
 msgstr "સૉર્ટ ઓર્ડર:"
 
-msgid "Unsupported video URL"
-msgstr "અસમર્થિત વિડિઓ URL"
+#~ msgid "Error displaying image"
+#~ msgstr "છબી પ્રદર્શિત કરવામાં ભૂલ"
 
-msgid "Video playback failed"
-msgstr "વિડિઓ પ્લેબેક નિષ્ફળ થયું"
+#~ msgid "Failed to download image"
+#~ msgstr "છબી ડાઉનલોડ કરવામાં નિષ્ફળ"
+
+#~ msgid "Failed to load image."
+#~ msgstr "છબી લોડ કરવામાં નિષ્ફળ."
+
+#~ msgid "Image not available"
+#~ msgstr "છબી ઉપલબ્ધ નથી"
+
+#~ msgid "Loading image..."
+#~ msgstr "છબી લોડ કરી રહ્યું છે..."
+
+#~ msgid "No image URL available"
+#~ msgstr "કોઈ છબી URL ઉપલબ્ધ નથી"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "વિડિઓ ચલાવવા માટે બરાબર દબાવો"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "અસમર્થિત વિડિઓ URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "વિડિઓ પ્લેબેક નિષ્ફળ થયું"

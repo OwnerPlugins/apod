@@ -26,9 +26,6 @@ msgstr "Hủy bỏ"
 msgid "Error building list"
 msgstr "Danh sách xây dựng lỗi"
 
-msgid "Error displaying image"
-msgstr "Lỗi hiển thị hình ảnh"
-
 msgid "Error downloading image: {}"
 msgstr "Lỗi tải hình ảnh: {}"
 
@@ -38,17 +35,11 @@ msgstr "Lỗi tải dữ liệu"
 msgid "Error loading data. Try later."
 msgstr "Lỗi tải dữ liệu. Hãy thử sau."
 
-msgid "Failed to download image"
-msgstr "Không tải được hình ảnh xuống"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Không tìm nạp được hình ảnh: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Không tải được APOD"
-
-msgid "Failed to load image."
-msgstr "Không thể tải hình ảnh."
 
 msgid "Fetch mode:"
 msgstr "Chế độ tìm nạp:"
@@ -59,9 +50,6 @@ msgstr "Thành lập"
 msgid "Found {} entries"
 msgstr "Đã tìm thấy {} mục"
 
-msgid "Image not available"
-msgstr "Hình ảnh không có sẵn"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Khóa API không hợp lệ! Vui lòng định cấu hình khóa API NASA hợp lệ."
 
@@ -70,9 +58,6 @@ msgstr "Đang tải Hình ảnh Thiên văn trong Ngày..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Đang tải dữ liệu APOD mới..."
-
-msgid "Loading image..."
-msgstr "Đang tải hình ảnh..."
 
 msgid "Loading..."
 msgstr "Đang tải..."
@@ -83,14 +68,8 @@ msgstr "Khóa API của NASA:"
 msgid "No data available. Check API key."
 msgstr "Không có dữ liệu có sẵn. Kiểm tra khóa API."
 
-msgid "No image URL available"
-msgstr "Không có sẵn URL hình ảnh"
-
 msgid "Number of APODs to fetch:"
 msgstr "Số lượng APOD cần tìm nạp:"
-
-msgid "Press OK to play video"
-msgstr "Nhấn OK để phát video"
 
 msgid "Random"
 msgstr "ngẫu nhiên"
@@ -110,8 +89,29 @@ msgstr "Tìm kiếm..."
 msgid "Sort order:"
 msgstr "Sắp xếp thứ tự:"
 
-msgid "Unsupported video URL"
-msgstr "URL video không được hỗ trợ"
+#~ msgid "Error displaying image"
+#~ msgstr "Lỗi hiển thị hình ảnh"
 
-msgid "Video playback failed"
-msgstr "Phát lại video không thành công"
+#~ msgid "Failed to download image"
+#~ msgstr "Không tải được hình ảnh xuống"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Không thể tải hình ảnh."
+
+#~ msgid "Image not available"
+#~ msgstr "Hình ảnh không có sẵn"
+
+#~ msgid "Loading image..."
+#~ msgstr "Đang tải hình ảnh..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Không có sẵn URL hình ảnh"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Nhấn OK để phát video"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "URL video không được hỗ trợ"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Phát lại video không thành công"

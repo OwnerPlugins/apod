@@ -25,9 +25,6 @@ msgstr "Kanselleer"
 msgid "Error building list"
 msgstr "Kon nie lys bou nie"
 
-msgid "Error displaying image"
-msgstr "Kon nie prent vertoon nie"
-
 msgid "Error downloading image: {}"
 msgstr "Kon nie prent aflaai nie: {}"
 
@@ -37,17 +34,11 @@ msgstr "Kon nie data laai nie"
 msgid "Error loading data. Try later."
 msgstr "Kon nie data laai nie. Probeer later."
 
-msgid "Failed to download image"
-msgstr "Kon nie prent aflaai nie"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Kon nie prent haal nie: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Kon nie APOD laai nie"
-
-msgid "Failed to load image."
-msgstr "Kon nie prent laai nie."
 
 msgid "Fetch mode:"
 msgstr "Haalmodus:"
@@ -58,9 +49,6 @@ msgstr "Gevind"
 msgid "Found {} entries"
 msgstr "Het {} inskrywings gevind"
 
-msgid "Image not available"
-msgstr "Prent nie beskikbaar nie"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Ongeldige API-sleutel! Stel asseblief 'n geldige NASA API-sleutel op."
 
@@ -69,9 +57,6 @@ msgstr "Laai tans sterrekundeprent van die dag..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Laai tans vars APOD-data..."
-
-msgid "Loading image..."
-msgstr "Laai tans prent …"
 
 msgid "Loading..."
 msgstr "Laai tans..."
@@ -82,14 +67,8 @@ msgstr "NASA API-sleutel:"
 msgid "No data available. Check API key."
 msgstr "Geen data beskikbaar nie. Gaan API-sleutel na."
 
-msgid "No image URL available"
-msgstr "Geen prent-URL beskikbaar nie"
-
 msgid "Number of APODs to fetch:"
 msgstr "Aantal APOD's om te gaan haal:"
-
-msgid "Press OK to play video"
-msgstr "Druk OK om video te speel"
 
 msgid "Random"
 msgstr "ewekansig"
@@ -109,8 +88,29 @@ msgstr "Soek..."
 msgid "Sort order:"
 msgstr "Sorteer volgorde:"
 
-msgid "Unsupported video URL"
-msgstr "Ongesteunde video-URL"
+#~ msgid "Error displaying image"
+#~ msgstr "Kon nie prent vertoon nie"
 
-msgid "Video playback failed"
-msgstr "Videoterugspeel het misluk"
+#~ msgid "Failed to download image"
+#~ msgstr "Kon nie prent aflaai nie"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Kon nie prent laai nie."
+
+#~ msgid "Image not available"
+#~ msgstr "Prent nie beskikbaar nie"
+
+#~ msgid "Loading image..."
+#~ msgstr "Laai tans prent …"
+
+#~ msgid "No image URL available"
+#~ msgstr "Geen prent-URL beskikbaar nie"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Druk OK om video te speel"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Ongesteunde video-URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Videoterugspeel het misluk"

@@ -25,9 +25,6 @@ msgstr "يلغي"
 msgid "Error building list"
 msgstr "خطأ في بناء القائمة"
 
-msgid "Error displaying image"
-msgstr "خطأ في عرض الصورة"
-
 msgid "Error downloading image: {}"
 msgstr "حدث خطأ أثناء تنزيل الصورة: {}"
 
@@ -37,17 +34,11 @@ msgstr "حدث خطأ أثناء تحميل البيانات"
 msgid "Error loading data. Try later."
 msgstr "حدث خطأ أثناء تحميل البيانات. حاول لاحقًا."
 
-msgid "Failed to download image"
-msgstr "فشل تحميل الصورة"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "فشل جلب الصورة: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "فشل تحميل APOD"
-
-msgid "Failed to load image."
-msgstr "فشل تحميل الصورة."
 
 msgid "Fetch mode:"
 msgstr "وضع الجلب:"
@@ -58,9 +49,6 @@ msgstr "وجد"
 msgid "Found {} entries"
 msgstr "تم العثور على {} إدخالات"
 
-msgid "Image not available"
-msgstr "الصورة غير متوفرة"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "مفتاح API غير صالح! الرجاء تكوين مفتاح NASA API صالح."
 
@@ -69,9 +57,6 @@ msgstr "جارٍ تحميل صورة اليوم الفلكية..."
 
 msgid "Loading fresh APOD data..."
 msgstr "جارٍ تحميل بيانات APOD الجديدة..."
-
-msgid "Loading image..."
-msgstr "جارٍ تحميل الصورة..."
 
 msgid "Loading..."
 msgstr "تحميل..."
@@ -82,14 +67,8 @@ msgstr "مفتاح واجهة برمجة تطبيقات ناسا:"
 msgid "No data available. Check API key."
 msgstr "لا توجد بيانات متاحة. تحقق من مفتاح API."
 
-msgid "No image URL available"
-msgstr "لا يتوفر عنوان URL للصورة"
-
 msgid "Number of APODs to fetch:"
 msgstr "عدد APODs المطلوب جلبها:"
-
-msgid "Press OK to play video"
-msgstr "اضغط على موافق لتشغيل الفيديو"
 
 msgid "Random"
 msgstr "عشوائي"
@@ -109,8 +88,29 @@ msgstr "يبحث..."
 msgid "Sort order:"
 msgstr "ترتيب الفرز:"
 
-msgid "Unsupported video URL"
-msgstr "عنوان URL للفيديو غير مدعوم"
+#~ msgid "Error displaying image"
+#~ msgstr "خطأ في عرض الصورة"
 
-msgid "Video playback failed"
-msgstr "فشل تشغيل الفيديو"
+#~ msgid "Failed to download image"
+#~ msgstr "فشل تحميل الصورة"
+
+#~ msgid "Failed to load image."
+#~ msgstr "فشل تحميل الصورة."
+
+#~ msgid "Image not available"
+#~ msgstr "الصورة غير متوفرة"
+
+#~ msgid "Loading image..."
+#~ msgstr "جارٍ تحميل الصورة..."
+
+#~ msgid "No image URL available"
+#~ msgstr "لا يتوفر عنوان URL للصورة"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "اضغط على موافق لتشغيل الفيديو"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "عنوان URL للفيديو غير مدعوم"
+
+#~ msgid "Video playback failed"
+#~ msgstr "فشل تشغيل الفيديو"

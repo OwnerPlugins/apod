@@ -25,9 +25,6 @@ msgstr "Sguir dheth"
 msgid "Error building list"
 msgstr "Liosta de mhearachdan togail"
 
-msgid "Error displaying image"
-msgstr "Thachair mearachd le taisbeanadh an dealbh"
-
 msgid "Error downloading image: {}"
 msgstr "Thachair mearachd le luchdachadh sìos an dealbh: {}"
 
@@ -37,17 +34,11 @@ msgstr "Thachair mearachd le luchdachadh an dàta"
 msgid "Error loading data. Try later."
 msgstr "Thachair mearachd le luchdachadh an dàta. Feuch nas fhaide air adhart."
 
-msgid "Failed to download image"
-msgstr "Dh'fhàillig an dealbh a luchdadh a-nuas"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Dh'fhàillig leis an dealbh fhaighinn: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Dh'fhàillig luchdadh APOD"
-
-msgid "Failed to load image."
-msgstr "Dh'fhàillig luchdadh an dealbh."
 
 msgid "Fetch mode:"
 msgstr "Modh tarraing:"
@@ -58,9 +49,6 @@ msgstr "Fhuaras"
 msgid "Found {} entries"
 msgstr "Lorgadh {} inntrigidhean"
 
-msgid "Image not available"
-msgstr "Chan eil dealbh ri fhaighinn"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Iuchair API mì-dhligheach! Feuch an cuir thu air dòigh iuchair API NASA dligheach."
 
@@ -69,9 +57,6 @@ msgstr "Luchdaich a-nuas dealbh latha astronomy. ."
 
 msgid "Loading fresh APOD data..."
 msgstr "Luchdaich a-nuas an dàta fiosrachaidh airson APOD. ."
-
-msgid "Loading image..."
-msgstr "Dealbh a' luchdadh..."
 
 msgid "Loading..."
 msgstr "A' luchdachadh..."
@@ -82,14 +67,8 @@ msgstr "Iuchair API NASA:"
 msgid "No data available. Check API key."
 msgstr "Chan eil dàta ri fhaighinn. Thoir sùil air iuchair API."
 
-msgid "No image URL available"
-msgstr "Chan eil URL ìomhaigh ri fhaighinn"
-
 msgid "Number of APODs to fetch:"
 msgstr "An àireamh de APODan ri thoirt:"
-
-msgid "Press OK to play video"
-msgstr "Brùth OK gus bhidio a chluich"
 
 msgid "Random"
 msgstr "air thuaiream"
@@ -109,8 +88,29 @@ msgstr "Lorg..."
 msgid "Sort order:"
 msgstr "Òrdugh seòrsa:"
 
-msgid "Unsupported video URL"
-msgstr "URL bhidio gun taic"
+#~ msgid "Error displaying image"
+#~ msgstr "Thachair mearachd le taisbeanadh an dealbh"
 
-msgid "Video playback failed"
-msgstr "Dh'fhàillig ath-chluich bhidio"
+#~ msgid "Failed to download image"
+#~ msgstr "Dh'fhàillig an dealbh a luchdadh a-nuas"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Dh'fhàillig luchdadh an dealbh."
+
+#~ msgid "Image not available"
+#~ msgstr "Chan eil dealbh ri fhaighinn"
+
+#~ msgid "Loading image..."
+#~ msgstr "Dealbh a' luchdadh..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Chan eil URL ìomhaigh ri fhaighinn"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Brùth OK gus bhidio a chluich"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "URL bhidio gun taic"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Dh'fhàillig ath-chluich bhidio"

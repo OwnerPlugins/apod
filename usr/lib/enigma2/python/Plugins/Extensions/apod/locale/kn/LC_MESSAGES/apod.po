@@ -25,9 +25,6 @@ msgstr "ರದ್ದುಮಾಡು"
 msgid "Error building list"
 msgstr "ದೋಷ ನಿರ್ಮಾಣ ಪಟ್ಟಿ"
 
-msgid "Error displaying image"
-msgstr "ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸುವಲ್ಲಿ ದೋಷ"
-
 msgid "Error downloading image: {}"
 msgstr "ಚಿತ್ರವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ: {}"
 
@@ -37,17 +34,11 @@ msgstr "ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದ
 msgid "Error loading data. Try later."
 msgstr "ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ. ನಂತರ ಪ್ರಯತ್ನಿಸಿ."
 
-msgid "Failed to download image"
-msgstr "ಚಿತ್ರವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "ಚಿತ್ರವನ್ನು ಪಡೆದುಕೊಳ್ಳಲು ವಿಫಲವಾಗಿದೆ: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "APOD ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ"
-
-msgid "Failed to load image."
-msgstr "ಚಿತ್ರವನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ."
 
 msgid "Fetch mode:"
 msgstr "ಪಡೆಯುವ ಮೋಡ್:"
@@ -58,9 +49,6 @@ msgstr "ಕಂಡುಬಂದಿದೆ"
 msgid "Found {} entries"
 msgstr "{} ನಮೂದುಗಳು ಕಂಡುಬಂದಿವೆ"
 
-msgid "Image not available"
-msgstr "ಚಿತ್ರ ಲಭ್ಯವಿಲ್ಲ"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "ಅಮಾನ್ಯ API ಕೀ! ದಯವಿಟ್ಟು ಮಾನ್ಯವಾದ NASA API ಕೀಯನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ."
 
@@ -69,9 +57,6 @@ msgstr "ದಿನದ ಖಗೋಳಶಾಸ್ತ್ರದ ಚಿತ್ರವನ�
 
 msgid "Loading fresh APOD data..."
 msgstr "ತಾಜಾ APOD ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
-
-msgid "Loading image..."
-msgstr "ಚಿತ್ರವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
 
 msgid "Loading..."
 msgstr "ಲೋಡ್ ಆಗುತ್ತಿದೆ..."
@@ -82,14 +67,8 @@ msgstr "NASA API ಕೀ:"
 msgid "No data available. Check API key."
 msgstr "ಯಾವುದೇ ಡೇಟಾ ಲಭ್ಯವಿಲ್ಲ. API ಕೀಯನ್ನು ಪರಿಶೀಲಿಸಿ."
 
-msgid "No image URL available"
-msgstr "ಯಾವುದೇ ಚಿತ್ರದ URL ಲಭ್ಯವಿಲ್ಲ"
-
 msgid "Number of APODs to fetch:"
 msgstr "ಪಡೆದುಕೊಳ್ಳಲು APOD ಗಳ ಸಂಖ್ಯೆ:"
-
-msgid "Press OK to play video"
-msgstr "ವೀಡಿಯೊ ಪ್ಲೇ ಮಾಡಲು ಸರಿ ಒತ್ತಿರಿ"
 
 msgid "Random"
 msgstr "ಯಾದೃಚ್ಛಿಕ"
@@ -109,8 +88,29 @@ msgstr "ಹುಡುಕು..."
 msgid "Sort order:"
 msgstr "ವಿಂಗಡಿಸುವ ಕ್ರಮ:"
 
-msgid "Unsupported video URL"
-msgstr "ಬೆಂಬಲಿತವಲ್ಲದ ವೀಡಿಯೊ URL"
+#~ msgid "Error displaying image"
+#~ msgstr "ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸುವಲ್ಲಿ ದೋಷ"
 
-msgid "Video playback failed"
-msgstr "ವೀಡಿಯೊ ಪ್ಲೇಬ್ಯಾಕ್ ವಿಫಲವಾಗಿದೆ"
+#~ msgid "Failed to download image"
+#~ msgstr "ಚಿತ್ರವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ"
+
+#~ msgid "Failed to load image."
+#~ msgstr "ಚಿತ್ರವನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ."
+
+#~ msgid "Image not available"
+#~ msgstr "ಚಿತ್ರ ಲಭ್ಯವಿಲ್ಲ"
+
+#~ msgid "Loading image..."
+#~ msgstr "ಚಿತ್ರವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+
+#~ msgid "No image URL available"
+#~ msgstr "ಯಾವುದೇ ಚಿತ್ರದ URL ಲಭ್ಯವಿಲ್ಲ"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "ವೀಡಿಯೊ ಪ್ಲೇ ಮಾಡಲು ಸರಿ ಒತ್ತಿರಿ"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "ಬೆಂಬಲಿತವಲ್ಲದ ವೀಡಿಯೊ URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "ವೀಡಿಯೊ ಪ್ಲೇಬ್ಯಾಕ್ ವಿಫಲವಾಗಿದೆ"
