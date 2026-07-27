@@ -25,9 +25,6 @@ msgstr "გაუქმება"
 msgid "Error building list"
 msgstr "შეცდომის აგების სია"
 
-msgid "Error displaying image"
-msgstr "შეცდომა სურათის ჩვენებისას"
-
 msgid "Error downloading image: {}"
 msgstr "შეცდომა სურათის ჩამოტვირთვისას: {}"
 
@@ -37,17 +34,11 @@ msgstr "შეცდომა მონაცემთა ჩატვირთ�
 msgid "Error loading data. Try later."
 msgstr "შეცდომა მონაცემთა ჩატვირთვისას. სცადეთ მოგვიანებით."
 
-msgid "Failed to download image"
-msgstr "სურათის ჩამოტვირთვა ვერ მოხერხდა"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "სურათის მიღება ვერ მოხერხდა: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "APOD ვერ ჩაიტვირთა"
-
-msgid "Failed to load image."
-msgstr "სურათის ჩატვირთვა ვერ მოხერხდა."
 
 msgid "Fetch mode:"
 msgstr "მიღების რეჟიმი:"
@@ -58,9 +49,6 @@ msgstr "ნაპოვნია"
 msgid "Found {} entries"
 msgstr "ნაპოვნია {} ჩანაწერი"
 
-msgid "Image not available"
-msgstr "სურათი მიუწვდომელია"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "არასწორი API გასაღები! გთხოვთ, დააკონფიგურიროთ NASA API მოქმედი გასაღები."
 
@@ -69,9 +57,6 @@ msgstr "იტვირთება დღის ასტრონომიუ�
 
 msgid "Loading fresh APOD data..."
 msgstr "მიმდინარეობს ახალი APOD მონაცემების ჩატვირთვა..."
-
-msgid "Loading image..."
-msgstr "სურათის ჩატვირთვა..."
 
 msgid "Loading..."
 msgstr "იტვირთება..."
@@ -82,14 +67,8 @@ msgstr "NASA API გასაღები:"
 msgid "No data available. Check API key."
 msgstr "მონაცემები არ არის ხელმისაწვდომი. შეამოწმეთ API გასაღები."
 
-msgid "No image URL available"
-msgstr "სურათის URL არ არის ხელმისაწვდომი"
-
 msgid "Number of APODs to fetch:"
 msgstr "მოსატანი APOD-ების რაოდენობა:"
-
-msgid "Press OK to play video"
-msgstr "დააჭირეთ OK ვიდეოს დასაკრავად"
 
 msgid "Random"
 msgstr "შემთხვევითი"
@@ -109,8 +88,29 @@ msgstr "ძიება..."
 msgid "Sort order:"
 msgstr "დალაგება თანმიმდევრობით:"
 
-msgid "Unsupported video URL"
-msgstr "ვიდეოს URL მხარდაუჭერელია"
+#~ msgid "Error displaying image"
+#~ msgstr "შეცდომა სურათის ჩვენებისას"
 
-msgid "Video playback failed"
-msgstr "ვიდეოს დაკვრა ვერ მოხერხდა"
+#~ msgid "Failed to download image"
+#~ msgstr "სურათის ჩამოტვირთვა ვერ მოხერხდა"
+
+#~ msgid "Failed to load image."
+#~ msgstr "სურათის ჩატვირთვა ვერ მოხერხდა."
+
+#~ msgid "Image not available"
+#~ msgstr "სურათი მიუწვდომელია"
+
+#~ msgid "Loading image..."
+#~ msgstr "სურათის ჩატვირთვა..."
+
+#~ msgid "No image URL available"
+#~ msgstr "სურათის URL არ არის ხელმისაწვდომი"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "დააჭირეთ OK ვიდეოს დასაკრავად"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "ვიდეოს URL მხარდაუჭერელია"
+
+#~ msgid "Video playback failed"
+#~ msgstr "ვიდეოს დაკვრა ვერ მოხერხდა"

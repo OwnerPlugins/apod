@@ -26,9 +26,6 @@ msgstr "Cancelar"
 msgid "Error building list"
 msgstr "Error al crear la lista"
 
-msgid "Error displaying image"
-msgstr "Error al mostrar la imagen"
-
 msgid "Error downloading image: {}"
 msgstr "Error al descargar la imagen: {}"
 
@@ -38,17 +35,11 @@ msgstr "Error al cargar datos"
 msgid "Error loading data. Try later."
 msgstr "Error al cargar datos. Inténtalo más tarde."
 
-msgid "Failed to download image"
-msgstr "No se pudo descargar la imagen"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "No se pudo recuperar la imagen: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "No se pudo cargar APOD"
-
-msgid "Failed to load image."
-msgstr "No se pudo cargar la imagen."
 
 msgid "Fetch mode:"
 msgstr "Modo de recuperación:"
@@ -59,9 +50,6 @@ msgstr "Encontró"
 msgid "Found {} entries"
 msgstr "Se encontraron {} entradas"
 
-msgid "Image not available"
-msgstr "Imagen no disponible"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "¡Clave API no válida! Configure una clave API de la NASA válida."
 
@@ -70,9 +58,6 @@ msgstr "Cargando Imagen Astronómica del Día..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Cargando datos APOD nuevos..."
-
-msgid "Loading image..."
-msgstr "Cargando imagen..."
 
 msgid "Loading..."
 msgstr "Cargando..."
@@ -83,14 +68,8 @@ msgstr "Clave API de la NASA:"
 msgid "No data available. Check API key."
 msgstr "No hay datos disponibles. Verifique la clave API."
 
-msgid "No image URL available"
-msgstr "No hay URL de imagen disponible"
-
 msgid "Number of APODs to fetch:"
 msgstr "Número de APOD para recuperar:"
-
-msgid "Press OK to play video"
-msgstr "Pulsa Aceptar para reproducir el vídeo."
 
 msgid "Random"
 msgstr "aleatorio"
@@ -110,8 +89,29 @@ msgstr "Buscar..."
 msgid "Sort order:"
 msgstr "Orden de clasificación:"
 
-msgid "Unsupported video URL"
-msgstr "URL de vídeo no compatible"
+#~ msgid "Error displaying image"
+#~ msgstr "Error al mostrar la imagen"
 
-msgid "Video playback failed"
-msgstr "Error en la reproducción de vídeo"
+#~ msgid "Failed to download image"
+#~ msgstr "No se pudo descargar la imagen"
+
+#~ msgid "Failed to load image."
+#~ msgstr "No se pudo cargar la imagen."
+
+#~ msgid "Image not available"
+#~ msgstr "Imagen no disponible"
+
+#~ msgid "Loading image..."
+#~ msgstr "Cargando imagen..."
+
+#~ msgid "No image URL available"
+#~ msgstr "No hay URL de imagen disponible"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Pulsa Aceptar para reproducir el vídeo."
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "URL de vídeo no compatible"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Error en la reproducción de vídeo"

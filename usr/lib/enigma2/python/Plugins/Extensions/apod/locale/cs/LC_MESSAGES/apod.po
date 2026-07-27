@@ -26,9 +26,6 @@ msgstr "Zrušit"
 msgid "Error building list"
 msgstr "Chyba při vytváření seznamu"
 
-msgid "Error displaying image"
-msgstr "Chyba při zobrazování obrázku"
-
 msgid "Error downloading image: {}"
 msgstr "Chyba při stahování obrázku: {}"
 
@@ -38,17 +35,11 @@ msgstr "Chyba při načítání dat"
 msgid "Error loading data. Try later."
 msgstr "Chyba při načítání dat. Zkuste to později."
 
-msgid "Failed to download image"
-msgstr "Stažení obrázku se nezdařilo"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Nepodařilo se načíst obrázek: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Nepodařilo se načíst APOD"
-
-msgid "Failed to load image."
-msgstr "Načtení obrázku se nezdařilo."
 
 msgid "Fetch mode:"
 msgstr "Režim načítání:"
@@ -59,9 +50,6 @@ msgstr "Nalezeno"
 msgid "Found {} entries"
 msgstr "Nalezeno {} záznamů"
 
-msgid "Image not available"
-msgstr "Obrázek není k dispozici"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Neplatný klíč API! Nakonfigurujte prosím platný klíč API NASA."
 
@@ -70,9 +58,6 @@ msgstr "Načítání astronomického snímku dne..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Načítání čerstvých dat APOD..."
-
-msgid "Loading image..."
-msgstr "Načítání obrázku..."
 
 msgid "Loading..."
 msgstr "Načítání..."
@@ -83,14 +68,8 @@ msgstr "Klíč API NASA:"
 msgid "No data available. Check API key."
 msgstr "Nejsou k dispozici žádné údaje. Zkontrolujte klíč API."
 
-msgid "No image URL available"
-msgstr "Adresa URL obrázku není k dispozici"
-
 msgid "Number of APODs to fetch:"
 msgstr "Počet APODů k načtení:"
-
-msgid "Press OK to play video"
-msgstr "Stisknutím tlačítka OK přehrajete video"
 
 msgid "Random"
 msgstr "náhodný"
@@ -110,8 +89,29 @@ msgstr "Vyhledávání..."
 msgid "Sort order:"
 msgstr "Pořadí řazení:"
 
-msgid "Unsupported video URL"
-msgstr "Nepodporovaná adresa URL videa"
+#~ msgid "Error displaying image"
+#~ msgstr "Chyba při zobrazování obrázku"
 
-msgid "Video playback failed"
-msgstr "Přehrávání videa se nezdařilo"
+#~ msgid "Failed to download image"
+#~ msgstr "Stažení obrázku se nezdařilo"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Načtení obrázku se nezdařilo."
+
+#~ msgid "Image not available"
+#~ msgstr "Obrázek není k dispozici"
+
+#~ msgid "Loading image..."
+#~ msgstr "Načítání obrázku..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Adresa URL obrázku není k dispozici"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Stisknutím tlačítka OK přehrajete video"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Nepodporovaná adresa URL videa"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Přehrávání videa se nezdařilo"

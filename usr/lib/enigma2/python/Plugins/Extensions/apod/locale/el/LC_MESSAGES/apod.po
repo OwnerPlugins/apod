@@ -26,9 +26,6 @@ msgstr "Ματαίωση"
 msgid "Error building list"
 msgstr "Σφάλμα δημιουργίας λίστας"
 
-msgid "Error displaying image"
-msgstr "Σφάλμα εμφάνισης εικόνας"
-
 msgid "Error downloading image: {}"
 msgstr "Σφάλμα κατά τη λήψη της εικόνας: {}"
 
@@ -38,17 +35,11 @@ msgstr "Σφάλμα κατά τη φόρτωση δεδομένων"
 msgid "Error loading data. Try later."
 msgstr "Σφάλμα κατά τη φόρτωση δεδομένων. Δοκιμάστε αργότερα."
 
-msgid "Failed to download image"
-msgstr "Η λήψη της εικόνας απέτυχε"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Αποτυχία λήψης εικόνας: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Η φόρτωση του APOD απέτυχε"
-
-msgid "Failed to load image."
-msgstr "Η φόρτωση της εικόνας απέτυχε."
 
 msgid "Fetch mode:"
 msgstr "Λειτουργία ανάκτησης:"
@@ -59,9 +50,6 @@ msgstr "Θεμελιώ"
 msgid "Found {} entries"
 msgstr "Βρέθηκαν {} καταχωρήσεις"
 
-msgid "Image not available"
-msgstr "Η εικόνα δεν είναι διαθέσιμη"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Μη έγκυρο κλειδί API! Διαμορφώστε ένα έγκυρο κλειδί API της NASA."
 
@@ -70,9 +58,6 @@ msgstr "Φόρτωση αστρονομικής φωτογραφίας της η
 
 msgid "Loading fresh APOD data..."
 msgstr "Φόρτωση νέων δεδομένων APOD..."
-
-msgid "Loading image..."
-msgstr "Φόρτωση εικόνας..."
 
 msgid "Loading..."
 msgstr "Φόρτωση..."
@@ -83,14 +68,8 @@ msgstr "Κλειδί API της NASA:"
 msgid "No data available. Check API key."
 msgstr "Δεν υπάρχουν διαθέσιμα δεδομένα. Ελέγξτε το κλειδί API."
 
-msgid "No image URL available"
-msgstr "Δεν υπάρχει διαθέσιμη διεύθυνση URL εικόνας"
-
 msgid "Number of APODs to fetch:"
 msgstr "Αριθμός APOD προς ανάκτηση:"
-
-msgid "Press OK to play video"
-msgstr "Πατήστε OK για αναπαραγωγή βίντεο"
 
 msgid "Random"
 msgstr "τυχαίος"
@@ -110,8 +89,29 @@ msgstr "Ερευνα..."
 msgid "Sort order:"
 msgstr "Σειρά ταξινόμησης:"
 
-msgid "Unsupported video URL"
-msgstr "Μη υποστηριζόμενη διεύθυνση URL βίντεο"
+#~ msgid "Error displaying image"
+#~ msgstr "Σφάλμα εμφάνισης εικόνας"
 
-msgid "Video playback failed"
-msgstr "Η αναπαραγωγή βίντεο απέτυχε"
+#~ msgid "Failed to download image"
+#~ msgstr "Η λήψη της εικόνας απέτυχε"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Η φόρτωση της εικόνας απέτυχε."
+
+#~ msgid "Image not available"
+#~ msgstr "Η εικόνα δεν είναι διαθέσιμη"
+
+#~ msgid "Loading image..."
+#~ msgstr "Φόρτωση εικόνας..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Δεν υπάρχει διαθέσιμη διεύθυνση URL εικόνας"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Πατήστε OK για αναπαραγωγή βίντεο"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Μη υποστηριζόμενη διεύθυνση URL βίντεο"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Η αναπαραγωγή βίντεο απέτυχε"

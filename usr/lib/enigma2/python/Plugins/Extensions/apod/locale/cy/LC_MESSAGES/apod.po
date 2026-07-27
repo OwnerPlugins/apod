@@ -25,9 +25,6 @@ msgstr "Canslo"
 msgid "Error building list"
 msgstr "Gwall wrth adeiladu rhestr"
 
-msgid "Error displaying image"
-msgstr "Gwall wrth ddangos y ddelwedd"
-
 msgid "Error downloading image: {}"
 msgstr "Gwall wrth lawrlwytho delwedd: {}"
 
@@ -37,17 +34,11 @@ msgstr "Gwall wrth lwytho data"
 msgid "Error loading data. Try later."
 msgstr "Gwall wrth lwytho data. Ceisiwch yn nes ymlaen."
 
-msgid "Failed to download image"
-msgstr "Wedi methu lawrlwytho'r ddelwedd"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Wedi methu â nôl delwedd: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Wedi methu llwytho APOD"
-
-msgid "Failed to load image."
-msgstr "Wedi methu llwytho delwedd."
 
 msgid "Fetch mode:"
 msgstr "Modd nôl:"
@@ -58,9 +49,6 @@ msgstr "Wedi dod o hyd"
 msgid "Found {} entries"
 msgstr "Wedi dod o hyd i {} gofnod"
 
-msgid "Image not available"
-msgstr "Nid yw'r llun ar gael"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Allwedd API annilys! Ffurfweddwch allwedd API NASA ddilys."
 
@@ -69,9 +57,6 @@ msgstr "Llwytho Llun Seryddiaeth o'r Dydd..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Wrthi'n llwytho data APOD ffres..."
-
-msgid "Loading image..."
-msgstr "Wrthi'n llwytho delwedd..."
 
 msgid "Loading..."
 msgstr "Wrthi'n llwytho..."
@@ -82,14 +67,8 @@ msgstr "Allwedd API NASA:"
 msgid "No data available. Check API key."
 msgstr "Dim data ar gael. Gwiriwch allwedd API."
 
-msgid "No image URL available"
-msgstr "Dim URL delwedd ar gael"
-
 msgid "Number of APODs to fetch:"
 msgstr "Nifer yr APODs i'w nôl:"
-
-msgid "Press OK to play video"
-msgstr "Pwyswch OK i chwarae fideo"
 
 msgid "Random"
 msgstr "ar hap"
@@ -109,8 +88,29 @@ msgstr "Chwilio..."
 msgid "Sort order:"
 msgstr "Trefn didoli:"
 
-msgid "Unsupported video URL"
-msgstr "URL fideo heb ei gefnogi"
+#~ msgid "Error displaying image"
+#~ msgstr "Gwall wrth ddangos y ddelwedd"
 
-msgid "Video playback failed"
-msgstr "Wedi methu chwarae fideo"
+#~ msgid "Failed to download image"
+#~ msgstr "Wedi methu lawrlwytho'r ddelwedd"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Wedi methu llwytho delwedd."
+
+#~ msgid "Image not available"
+#~ msgstr "Nid yw'r llun ar gael"
+
+#~ msgid "Loading image..."
+#~ msgstr "Wrthi'n llwytho delwedd..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Dim URL delwedd ar gael"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Pwyswch OK i chwarae fideo"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "URL fideo heb ei gefnogi"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Wedi methu chwarae fideo"

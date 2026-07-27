@@ -25,9 +25,6 @@ msgstr "Цуцлах"
 msgid "Error building list"
 msgstr "Алдаа бүтээх жагсаалт"
 
-msgid "Error displaying image"
-msgstr "Зургийг харуулахад алдаа гарлаа"
-
 msgid "Error downloading image: {}"
 msgstr "Зургийг татаж авахад алдаа гарлаа: {}"
 
@@ -37,17 +34,11 @@ msgstr "Өгөгдлийг ачаалахад алдаа гарлаа"
 msgid "Error loading data. Try later."
 msgstr "Өгөгдлийг ачаалахад алдаа гарлаа. Дараа оролдоно уу."
 
-msgid "Failed to download image"
-msgstr "Зургийг татаж авч чадсангүй"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Зургийг татаж авч чадсангүй: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "APOD-г ачаалж чадсангүй"
-
-msgid "Failed to load image."
-msgstr "Зургийг ачаалж чадсангүй."
 
 msgid "Fetch mode:"
 msgstr "Татаж авах горим:"
@@ -58,9 +49,6 @@ msgstr "Олдсон"
 msgid "Found {} entries"
 msgstr "{} оруулгууд олдсон"
 
-msgid "Image not available"
-msgstr "Зураг байхгүй байна"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "API түлхүүр буруу! Хүчинтэй NASA API түлхүүрийг тохируулна уу."
 
@@ -69,9 +57,6 @@ msgstr "Энэ өдрийн одон орон судлалын зургийг а
 
 msgid "Loading fresh APOD data..."
 msgstr "APOD-ийн шинэ өгөгдлийг ачаалж байна..."
-
-msgid "Loading image..."
-msgstr "Зургийг ачаалж байна..."
 
 msgid "Loading..."
 msgstr "Ачааж байна..."
@@ -82,14 +67,8 @@ msgstr "NASA API түлхүүр:"
 msgid "No data available. Check API key."
 msgstr "Өгөгдөл байхгүй байна. API түлхүүрийг шалгана уу."
 
-msgid "No image URL available"
-msgstr "Зургийн URL байхгүй байна"
-
 msgid "Number of APODs to fetch:"
 msgstr "Татаж авах APOD-ийн тоо:"
-
-msgid "Press OK to play video"
-msgstr "Видео тоглуулахын тулд OK дарна уу"
 
 msgid "Random"
 msgstr "санамсаргүй"
@@ -109,8 +88,29 @@ msgstr "Хайх..."
 msgid "Sort order:"
 msgstr "Эрэмбэлэх дараалал:"
 
-msgid "Unsupported video URL"
-msgstr "Дэмжигдээгүй видео URL"
+#~ msgid "Error displaying image"
+#~ msgstr "Зургийг харуулахад алдаа гарлаа"
 
-msgid "Video playback failed"
-msgstr "Видео тоглуулж чадсангүй"
+#~ msgid "Failed to download image"
+#~ msgstr "Зургийг татаж авч чадсангүй"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Зургийг ачаалж чадсангүй."
+
+#~ msgid "Image not available"
+#~ msgstr "Зураг байхгүй байна"
+
+#~ msgid "Loading image..."
+#~ msgstr "Зургийг ачаалж байна..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Зургийн URL байхгүй байна"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Видео тоглуулахын тулд OK дарна уу"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Дэмжигдээгүй видео URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Видео тоглуулж чадсангүй"

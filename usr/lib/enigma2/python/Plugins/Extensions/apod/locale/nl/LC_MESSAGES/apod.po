@@ -26,9 +26,6 @@ msgstr "Annuleren"
 msgid "Error building list"
 msgstr "Fout bij het samenstellen van lijst"
 
-msgid "Error displaying image"
-msgstr "Fout bij het weergeven van afbeelding"
-
 msgid "Error downloading image: {}"
 msgstr "Fout bij downloaden van afbeelding: {}"
 
@@ -38,17 +35,11 @@ msgstr "Fout bij het laden van gegevens"
 msgid "Error loading data. Try later."
 msgstr "Fout bij het laden van gegevens. Probeer het later."
 
-msgid "Failed to download image"
-msgstr "Kan afbeelding niet downloaden"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Kan afbeelding niet ophalen: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Kan APOD niet laden"
-
-msgid "Failed to load image."
-msgstr "Kan afbeelding niet laden."
 
 msgid "Fetch mode:"
 msgstr "Ophaalmodus:"
@@ -59,9 +50,6 @@ msgstr "Gevonden"
 msgid "Found {} entries"
 msgstr "{} vermeldingen gevonden"
 
-msgid "Image not available"
-msgstr "Afbeelding niet beschikbaar"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Ongeldige API-sleutel! Configureer een geldige NASA API-sleutel."
 
@@ -70,9 +58,6 @@ msgstr "Astronomiefoto van de dag laden..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Nieuwe APOD-gegevens laden..."
-
-msgid "Loading image..."
-msgstr "Afbeelding laden..."
 
 msgid "Loading..."
 msgstr "Laden..."
@@ -83,14 +68,8 @@ msgstr "NASA API-sleutel:"
 msgid "No data available. Check API key."
 msgstr "Geen gegevens beschikbaar. Controleer de API-sleutel."
 
-msgid "No image URL available"
-msgstr "Geen afbeeldings-URL beschikbaar"
-
 msgid "Number of APODs to fetch:"
 msgstr "Aantal APOD's dat moet worden opgehaald:"
-
-msgid "Press OK to play video"
-msgstr "Druk op OK om de video af te spelen"
 
 msgid "Random"
 msgstr "willekeurig"
@@ -110,8 +89,29 @@ msgstr "Zoekopdracht..."
 msgid "Sort order:"
 msgstr "Sorteervolgorde:"
 
-msgid "Unsupported video URL"
-msgstr "Niet-ondersteunde video-URL"
+#~ msgid "Error displaying image"
+#~ msgstr "Fout bij het weergeven van afbeelding"
 
-msgid "Video playback failed"
-msgstr "Het afspelen van video is mislukt"
+#~ msgid "Failed to download image"
+#~ msgstr "Kan afbeelding niet downloaden"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Kan afbeelding niet laden."
+
+#~ msgid "Image not available"
+#~ msgstr "Afbeelding niet beschikbaar"
+
+#~ msgid "Loading image..."
+#~ msgstr "Afbeelding laden..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Geen afbeeldings-URL beschikbaar"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Druk op OK om de video af te spelen"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Niet-ondersteunde video-URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Het afspelen van video is mislukt"

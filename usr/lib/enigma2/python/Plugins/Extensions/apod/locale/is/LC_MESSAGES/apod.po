@@ -25,9 +25,6 @@ msgstr "Hætta við"
 msgid "Error building list"
 msgstr "Villa í byggingarlista"
 
-msgid "Error displaying image"
-msgstr "Villa við að sýna mynd"
-
 msgid "Error downloading image: {}"
 msgstr "Villa við að hlaða niður mynd: {}"
 
@@ -37,17 +34,11 @@ msgstr "Villa við að hlaða gögnum"
 msgid "Error loading data. Try later."
 msgstr "Villa við að hlaða gögnum. Reyndu síðar."
 
-msgid "Failed to download image"
-msgstr "Mistókst að hlaða niður mynd"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Mistókst að sækja mynd: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Mistókst að hlaða APOD"
-
-msgid "Failed to load image."
-msgstr "Mistókst að hlaða mynd."
 
 msgid "Fetch mode:"
 msgstr "Sækja háttur:"
@@ -58,9 +49,6 @@ msgstr "Fannst"
 msgid "Found {} entries"
 msgstr "Fann {} færslur"
 
-msgid "Image not available"
-msgstr "Mynd ekki tiltæk"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Ógildur API lykill! Vinsamlega stilltu gildan NASA API lykil."
 
@@ -69,9 +57,6 @@ msgstr "Hleður stjörnufræðimynd dagsins..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Hleður ný APOD gögn..."
-
-msgid "Loading image..."
-msgstr "Hleður mynd..."
 
 msgid "Loading..."
 msgstr "Hleður..."
@@ -82,14 +67,8 @@ msgstr "NASA API lykill:"
 msgid "No data available. Check API key."
 msgstr "Engin gögn tiltæk. Athugaðu API lykil."
 
-msgid "No image URL available"
-msgstr "Engin myndslóð tiltæk"
-
 msgid "Number of APODs to fetch:"
 msgstr "Fjöldi APOD til að sækja:"
-
-msgid "Press OK to play video"
-msgstr "Ýttu á OK til að spila myndskeið"
 
 msgid "Random"
 msgstr "handahófi"
@@ -109,8 +88,29 @@ msgstr "Leita..."
 msgid "Sort order:"
 msgstr "Röð röð:"
 
-msgid "Unsupported video URL"
-msgstr "Óstudd vefslóð myndbands"
+#~ msgid "Error displaying image"
+#~ msgstr "Villa við að sýna mynd"
 
-msgid "Video playback failed"
-msgstr "Myndbandsspilun mistókst"
+#~ msgid "Failed to download image"
+#~ msgstr "Mistókst að hlaða niður mynd"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Mistókst að hlaða mynd."
+
+#~ msgid "Image not available"
+#~ msgstr "Mynd ekki tiltæk"
+
+#~ msgid "Loading image..."
+#~ msgstr "Hleður mynd..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Engin myndslóð tiltæk"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Ýttu á OK til að spila myndskeið"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Óstudd vefslóð myndbands"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Myndbandsspilun mistókst"

@@ -26,9 +26,6 @@ msgstr "İptal etmek"
 msgid "Error building list"
 msgstr "Liste oluşturulurken hata oluştu"
 
-msgid "Error displaying image"
-msgstr "Resim görüntülenirken hata oluştu"
-
 msgid "Error downloading image: {}"
 msgstr "Resim indirilirken hata oluştu: {}"
 
@@ -38,17 +35,11 @@ msgstr "Veriler yüklenirken hata oluştu"
 msgid "Error loading data. Try later."
 msgstr "Veriler yüklenirken hata oluştu. Daha sonra deneyin."
 
-msgid "Failed to download image"
-msgstr "Resim indirilemedi"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Resim getirilemedi: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "APOD yüklenemedi"
-
-msgid "Failed to load image."
-msgstr "Resim yüklenemedi."
 
 msgid "Fetch mode:"
 msgstr "Getirme modu:"
@@ -59,9 +50,6 @@ msgstr "Kurmak"
 msgid "Found {} entries"
 msgstr "{} giriş bulundu"
 
-msgid "Image not available"
-msgstr "Resim mevcut değil"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Geçersiz API Anahtarı! Lütfen geçerli bir NASA API anahtarı yapılandırın."
 
@@ -70,9 +58,6 @@ msgstr "Günün Astronomi Resmi Yükleniyor..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Yeni APOD verileri yükleniyor..."
-
-msgid "Loading image..."
-msgstr "Resim yükleniyor..."
 
 msgid "Loading..."
 msgstr "Yükleniyor..."
@@ -83,14 +68,8 @@ msgstr "NASA API Anahtarı:"
 msgid "No data available. Check API key."
 msgstr "Veri yok. API anahtarını kontrol edin."
 
-msgid "No image URL available"
-msgstr "Resim URL'si yok"
-
 msgid "Number of APODs to fetch:"
 msgstr "Getirilecek APOD sayısı:"
-
-msgid "Press OK to play video"
-msgstr "Videoyu oynatmak için Tamam'a basın"
 
 msgid "Random"
 msgstr "rastgele"
@@ -110,8 +89,29 @@ msgstr "Aramak..."
 msgid "Sort order:"
 msgstr "Sıralama düzeni:"
 
-msgid "Unsupported video URL"
-msgstr "Desteklenmeyen video URL'si"
+#~ msgid "Error displaying image"
+#~ msgstr "Resim görüntülenirken hata oluştu"
 
-msgid "Video playback failed"
-msgstr "Video oynatma başarısız oldu"
+#~ msgid "Failed to download image"
+#~ msgstr "Resim indirilemedi"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Resim yüklenemedi."
+
+#~ msgid "Image not available"
+#~ msgstr "Resim mevcut değil"
+
+#~ msgid "Loading image..."
+#~ msgstr "Resim yükleniyor..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Resim URL'si yok"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Videoyu oynatmak için Tamam'a basın"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Desteklenmeyen video URL'si"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Video oynatma başarısız oldu"

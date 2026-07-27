@@ -26,9 +26,6 @@ msgstr "Tühista"
 msgid "Error building list"
 msgstr "Viga loendi koostamisel"
 
-msgid "Error displaying image"
-msgstr "Viga pildi kuvamisel"
-
 msgid "Error downloading image: {}"
 msgstr "Viga pildi allalaadimisel: {}"
 
@@ -38,17 +35,11 @@ msgstr "Viga andmete laadimisel"
 msgid "Error loading data. Try later."
 msgstr "Viga andmete laadimisel. Proovige hiljem."
 
-msgid "Failed to download image"
-msgstr "Pildi allalaadimine ebaõnnestus"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Pildi toomine ebaõnnestus: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "APOD-i laadimine ebaõnnestus"
-
-msgid "Failed to load image."
-msgstr "Pildi laadimine ebaõnnestus."
 
 msgid "Fetch mode:"
 msgstr "Too režiim:"
@@ -59,9 +50,6 @@ msgstr "Leitud"
 msgid "Found {} entries"
 msgstr "Leiti {} kirjet"
 
-msgid "Image not available"
-msgstr "Pilt pole saadaval"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Kehtetu API võti! Seadistage kehtiv NASA API võti."
 
@@ -70,9 +58,6 @@ msgstr "Päeva astronoomiapildi laadimine..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Värskete APOD-andmete laadimine..."
-
-msgid "Loading image..."
-msgstr "Pildi laadimine..."
 
 msgid "Loading..."
 msgstr "Laadimine..."
@@ -83,14 +68,8 @@ msgstr "NASA API võti:"
 msgid "No data available. Check API key."
 msgstr "Andmed puuduvad. Kontrollige API-võtit."
 
-msgid "No image URL available"
-msgstr "Pildi URL pole saadaval"
-
 msgid "Number of APODs to fetch:"
 msgstr "Tootavate APOD-de arv:"
-
-msgid "Press OK to play video"
-msgstr "Video esitamiseks vajutage nuppu OK"
 
 msgid "Random"
 msgstr "juhuslik"
@@ -110,8 +89,29 @@ msgstr "Otsi..."
 msgid "Sort order:"
 msgstr "Sorteerimisjärjekord:"
 
-msgid "Unsupported video URL"
-msgstr "Toetamata video URL"
+#~ msgid "Error displaying image"
+#~ msgstr "Viga pildi kuvamisel"
 
-msgid "Video playback failed"
-msgstr "Video taasesitus ebaõnnestus"
+#~ msgid "Failed to download image"
+#~ msgstr "Pildi allalaadimine ebaõnnestus"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Pildi laadimine ebaõnnestus."
+
+#~ msgid "Image not available"
+#~ msgstr "Pilt pole saadaval"
+
+#~ msgid "Loading image..."
+#~ msgstr "Pildi laadimine..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Pildi URL pole saadaval"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Video esitamiseks vajutage nuppu OK"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Toetamata video URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Video taasesitus ebaõnnestus"

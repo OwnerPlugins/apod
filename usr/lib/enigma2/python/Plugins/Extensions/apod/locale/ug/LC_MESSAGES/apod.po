@@ -25,9 +25,6 @@ msgstr "بىكار قىلىش"
 msgid "Error building list"
 msgstr "خاتالىق تىزىملىكى"
 
-msgid "Error displaying image"
-msgstr "رەسىم كۆرسىتىشتە خاتالىق"
-
 msgid "Error downloading image: {}"
 msgstr "رەسىم چۈشۈرۈشتە خاتالىق: {}"
 
@@ -37,17 +34,11 @@ msgstr "سانلىق مەلۇمات يۈكلەشتە خاتالىق"
 msgid "Error loading data. Try later."
 msgstr "سانلىق مەلۇماتلارنى يۈكلەشتە خاتالىق. كېيىن سىناپ بېقىڭ."
 
-msgid "Failed to download image"
-msgstr "رەسىمنى چۈشۈرۈش مەغلۇب بولدى"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "رەسىمگە ئېرىشەلمىدى: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "APOD نى يۈكلىيەلمىدى"
-
-msgid "Failed to load image."
-msgstr "رەسىم يۈكلەنمىدى."
 
 msgid "Fetch mode:"
 msgstr ""
@@ -58,9 +49,6 @@ msgstr "تېپىلدى"
 msgid "Found {} entries"
 msgstr "تېپىلدى"
 
-msgid "Image not available"
-msgstr "رەسىم يوق"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "ئىناۋەتسىز API ئاچقۇچى! ئىناۋەتلىك NASA API ئاچقۇچىنى سەپلەڭ."
 
@@ -69,9 +57,6 @@ msgstr "يۈكلەنگەن ئاسترونومىيە رەسىمى ..."
 
 msgid "Loading fresh APOD data..."
 msgstr "يېڭى APOD سانلىق مەلۇماتلىرىنى يۈكلەۋاتىدۇ ..."
-
-msgid "Loading image..."
-msgstr "رەسىم يۈكلەۋاتىدۇ ..."
 
 msgid "Loading..."
 msgstr "Loading ..."
@@ -82,14 +67,8 @@ msgstr "NASA API ئاچقۇچى:"
 msgid "No data available. Check API key."
 msgstr "سانلىق مەلۇمات يوق. API ئاچقۇچىنى تەكشۈرۈڭ."
 
-msgid "No image URL available"
-msgstr "رەسىم URL يوق"
-
 msgid "Number of APODs to fetch:"
 msgstr "ئالماقچى بولغان APOD سانى:"
-
-msgid "Press OK to play video"
-msgstr "سىن قويۇش ئۈچۈن OK نى بېسىڭ"
 
 msgid "Random"
 msgstr "تاسادىپىي"
@@ -109,8 +88,29 @@ msgstr "ئىزدەش ..."
 msgid "Sort order:"
 msgstr "تەرتىپلەش تەرتىپى:"
 
-msgid "Unsupported video URL"
-msgstr "قوللىمايدىغان سىن URL"
+#~ msgid "Error displaying image"
+#~ msgstr "رەسىم كۆرسىتىشتە خاتالىق"
 
-msgid "Video playback failed"
-msgstr "سىن قويۇش مەغلۇب بولدى"
+#~ msgid "Failed to download image"
+#~ msgstr "رەسىمنى چۈشۈرۈش مەغلۇب بولدى"
+
+#~ msgid "Failed to load image."
+#~ msgstr "رەسىم يۈكلەنمىدى."
+
+#~ msgid "Image not available"
+#~ msgstr "رەسىم يوق"
+
+#~ msgid "Loading image..."
+#~ msgstr "رەسىم يۈكلەۋاتىدۇ ..."
+
+#~ msgid "No image URL available"
+#~ msgstr "رەسىم URL يوق"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "سىن قويۇش ئۈچۈن OK نى بېسىڭ"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "قوللىمايدىغان سىن URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "سىن قويۇش مەغلۇب بولدى"

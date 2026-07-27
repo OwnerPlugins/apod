@@ -25,9 +25,6 @@ msgstr "Ikkanċella"
 msgid "Error building list"
 msgstr "Lista tal-bini ta' żball"
 
-msgid "Error displaying image"
-msgstr "Żball fil-wiri tal-immaġni"
-
 msgid "Error downloading image: {}"
 msgstr "Żball fit-tniżżil tal-immaġni: {}"
 
@@ -37,17 +34,11 @@ msgstr "Żball fit-tagħbija tad-dejta"
 msgid "Error loading data. Try later."
 msgstr "Żball fit-tagħbija tad-dejta. Ipprova aktar tard."
 
-msgid "Failed to download image"
-msgstr "Naqas milli tniżżel l-immaġni"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Ma rnexxilux iġib l-immaġni: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Naqas milli tgħabbi l-APOD"
-
-msgid "Failed to load image."
-msgstr "Naqas milli tgħabbi l-immaġni."
 
 msgid "Fetch mode:"
 msgstr "Modalità tal-ġbir:"
@@ -58,9 +49,6 @@ msgstr "Misjuba"
 msgid "Found {} entries"
 msgstr "Sabu {} entrati"
 
-msgid "Image not available"
-msgstr "L-immaġni mhix disponibbli"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Ċavetta API invalida! Jekk jogħġbok ikkonfigura ċavetta API tan-NASA valida."
 
@@ -69,9 +57,6 @@ msgstr "Tagħbija Stampa tal-Astronomija tal-Jum..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Tagħbija dejta ġdida tal-APOD..."
-
-msgid "Loading image..."
-msgstr "Qiegħed l-immaġni..."
 
 msgid "Loading..."
 msgstr "Tagħbija..."
@@ -82,14 +67,8 @@ msgstr "Ċavetta API tan-NASA:"
 msgid "No data available. Check API key."
 msgstr "Ebda data disponibbli. Iċċekkja ċ-ċavetta API."
 
-msgid "No image URL available"
-msgstr "Ebda URL tal-immaġni disponibbli"
-
 msgid "Number of APODs to fetch:"
 msgstr "Numru ta' APODs li jridu jġibu:"
-
-msgid "Press OK to play video"
-msgstr "Agħfas OK biex tilgħab il-vidjo"
 
 msgid "Random"
 msgstr "każwali"
@@ -109,8 +88,29 @@ msgstr "Fittex..."
 msgid "Sort order:"
 msgstr "Ordni tal-issortjar:"
 
-msgid "Unsupported video URL"
-msgstr "URL tal-vidjo mhux appoġġjat"
+#~ msgid "Error displaying image"
+#~ msgstr "Żball fil-wiri tal-immaġni"
 
-msgid "Video playback failed"
-msgstr "Il-plejbek tal-vidjo falla"
+#~ msgid "Failed to download image"
+#~ msgstr "Naqas milli tniżżel l-immaġni"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Naqas milli tgħabbi l-immaġni."
+
+#~ msgid "Image not available"
+#~ msgstr "L-immaġni mhix disponibbli"
+
+#~ msgid "Loading image..."
+#~ msgstr "Qiegħed l-immaġni..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Ebda URL tal-immaġni disponibbli"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Agħfas OK biex tilgħab il-vidjo"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "URL tal-vidjo mhux appoġġjat"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Il-plejbek tal-vidjo falla"

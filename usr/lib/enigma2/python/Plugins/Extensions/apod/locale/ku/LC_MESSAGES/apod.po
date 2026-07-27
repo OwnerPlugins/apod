@@ -25,9 +25,6 @@ msgstr "Bişûndekirin"
 msgid "Error building list"
 msgstr "Lîsteya avakirina çewtiyê"
 
-msgid "Error displaying image"
-msgstr "Di nîşandana wêneyê de çewtî"
-
 msgid "Error downloading image: {}"
 msgstr "Di daxistina wêneyê de çewtî: {}"
 
@@ -37,17 +34,11 @@ msgstr "Di barkirina daneyan de çewtî"
 msgid "Error loading data. Try later."
 msgstr "Di barkirina daneyan de çewtî. Paşê biceribînin."
 
-msgid "Failed to download image"
-msgstr "Daxistina wêne bi ser neket"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Hilweşîna wêneyê têk çû: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Barkirina APOD bi ser neket"
-
-msgid "Failed to load image."
-msgstr "Barkirina wêneyê bi ser neket."
 
 msgid "Fetch mode:"
 msgstr "Moda hilgirtinê:"
@@ -58,9 +49,6 @@ msgstr "Hat dîtin"
 msgid "Found {} entries"
 msgstr "{} navnîş hatin dîtin"
 
-msgid "Image not available"
-msgstr "Wêne peyda nabe"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Mifteya API-ê nederbasdar e! Ji kerema xwe mifteyek NASA API-ya derbasdar mîheng bike."
 
@@ -69,9 +57,6 @@ msgstr "Wêneya Astronomî ya Rojê Barkirin..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Daneyên nû yên APOD tê barkirin..."
-
-msgid "Loading image..."
-msgstr "Wêne tê barkirin..."
 
 msgid "Loading..."
 msgstr "Barkirin..."
@@ -82,14 +67,8 @@ msgstr "Mifteya API ya NASA:"
 msgid "No data available. Check API key."
 msgstr "Daneyên berdest nînin. Bişkojka API-ê kontrol bikin."
 
-msgid "No image URL available"
-msgstr "URLa wêneyê tune"
-
 msgid "Number of APODs to fetch:"
 msgstr "Hejmara APOD-ên ku werin girtin:"
-
-msgid "Press OK to play video"
-msgstr "Ji bo lîstina vîdyoyê OK bikirtînin"
 
 msgid "Random"
 msgstr "bêpayîn"
@@ -109,8 +88,29 @@ msgstr "Gerr..."
 msgid "Sort order:"
 msgstr "Rêza sorkirinê:"
 
-msgid "Unsupported video URL"
-msgstr "URL-ya vîdyoyê nayê piştgirî kirin"
+#~ msgid "Error displaying image"
+#~ msgstr "Di nîşandana wêneyê de çewtî"
 
-msgid "Video playback failed"
-msgstr "Veguheztina vîdyoyê têk çû"
+#~ msgid "Failed to download image"
+#~ msgstr "Daxistina wêne bi ser neket"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Barkirina wêneyê bi ser neket."
+
+#~ msgid "Image not available"
+#~ msgstr "Wêne peyda nabe"
+
+#~ msgid "Loading image..."
+#~ msgstr "Wêne tê barkirin..."
+
+#~ msgid "No image URL available"
+#~ msgstr "URLa wêneyê tune"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Ji bo lîstina vîdyoyê OK bikirtînin"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "URL-ya vîdyoyê nayê piştgirî kirin"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Veguheztina vîdyoyê têk çû"

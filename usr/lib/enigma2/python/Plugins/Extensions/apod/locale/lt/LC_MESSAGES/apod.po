@@ -26,9 +26,6 @@ msgstr "Atšaukti"
 msgid "Error building list"
 msgstr "Klaida kuriant sąrašą"
 
-msgid "Error displaying image"
-msgstr "Rodant vaizdą įvyko klaida"
-
 msgid "Error downloading image: {}"
 msgstr "Klaida atsisiunčiant vaizdą: {}"
 
@@ -38,17 +35,11 @@ msgstr "Įkeliant duomenis įvyko klaida"
 msgid "Error loading data. Try later."
 msgstr "Įkeliant duomenis įvyko klaida. Pabandykite vėliau."
 
-msgid "Failed to download image"
-msgstr "Nepavyko atsisiųsti vaizdo"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Nepavyko gauti vaizdo: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Nepavyko įkelti APOD"
-
-msgid "Failed to load image."
-msgstr "Nepavyko įkelti vaizdo."
 
 msgid "Fetch mode:"
 msgstr "Gavimo režimas:"
@@ -59,9 +50,6 @@ msgstr "Rasta"
 msgid "Found {} entries"
 msgstr "Rasta {} įrašų"
 
-msgid "Image not available"
-msgstr "Vaizdas nepasiekiamas"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Neteisingas API raktas! Sukonfigūruokite galiojantį NASA API raktą."
 
@@ -70,9 +58,6 @@ msgstr "Įkeliamas dienos astronomijos paveikslas..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Įkeliami nauji APOD duomenys..."
-
-msgid "Loading image..."
-msgstr "Įkeliamas vaizdas..."
 
 msgid "Loading..."
 msgstr "Įkeliama..."
@@ -83,14 +68,8 @@ msgstr "NASA API raktas:"
 msgid "No data available. Check API key."
 msgstr "Nėra duomenų. Patikrinkite API raktą."
 
-msgid "No image URL available"
-msgstr "Nėra vaizdo URL"
-
 msgid "Number of APODs to fetch:"
 msgstr "Gautinų APOD skaičius:"
-
-msgid "Press OK to play video"
-msgstr "Norėdami paleisti vaizdo įrašą, paspauskite OK"
 
 msgid "Random"
 msgstr "atsitiktinis"
@@ -110,8 +89,29 @@ msgstr "Ieškoti..."
 msgid "Sort order:"
 msgstr "Rūšiavimo tvarka:"
 
-msgid "Unsupported video URL"
-msgstr "Nepalaikomas vaizdo įrašo URL"
+#~ msgid "Error displaying image"
+#~ msgstr "Rodant vaizdą įvyko klaida"
 
-msgid "Video playback failed"
-msgstr "Vaizdo įrašo atkūrimas nepavyko"
+#~ msgid "Failed to download image"
+#~ msgstr "Nepavyko atsisiųsti vaizdo"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Nepavyko įkelti vaizdo."
+
+#~ msgid "Image not available"
+#~ msgstr "Vaizdas nepasiekiamas"
+
+#~ msgid "Loading image..."
+#~ msgstr "Įkeliamas vaizdas..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Nėra vaizdo URL"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Norėdami paleisti vaizdo įrašą, paspauskite OK"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Nepalaikomas vaizdo įrašo URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Vaizdo įrašo atkūrimas nepavyko"

@@ -26,9 +26,6 @@ msgstr "Cancel"
 msgid "Error building list"
 msgstr "Error building list"
 
-msgid "Error displaying image"
-msgstr "Error displaying image"
-
 msgid "Error downloading image: {}"
 msgstr "Error downloading image: {}"
 
@@ -38,17 +35,11 @@ msgstr "Error loading data"
 msgid "Error loading data. Try later."
 msgstr "Error loading data. Try later."
 
-msgid "Failed to download image"
-msgstr "Failed to download image"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Failed to fetch image: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Failed to load APOD"
-
-msgid "Failed to load image."
-msgstr "Failed to load image."
 
 msgid "Fetch mode:"
 msgstr "Fetch mode:"
@@ -59,9 +50,6 @@ msgstr "Found"
 msgid "Found {} entries"
 msgstr "Found {} entries"
 
-msgid "Image not available"
-msgstr "Image not available"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Invalid API Key! Please configure a valid NASA API key."
 
@@ -70,9 +58,6 @@ msgstr "Loading Astronomy Picture of the Day..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Loading fresh APOD data..."
-
-msgid "Loading image..."
-msgstr "Loading image..."
 
 msgid "Loading..."
 msgstr "Loading..."
@@ -83,14 +68,8 @@ msgstr "NASA API Key:"
 msgid "No data available. Check API key."
 msgstr "No data available. Check API key."
 
-msgid "No image URL available"
-msgstr "No image URL available"
-
 msgid "Number of APODs to fetch:"
 msgstr "Number of APODs to fetch:"
-
-msgid "Press OK to play video"
-msgstr "Press OK to play video"
 
 msgid "Random"
 msgstr "Random"
@@ -110,8 +89,29 @@ msgstr "Search..."
 msgid "Sort order:"
 msgstr "Sort order:"
 
-msgid "Unsupported video URL"
-msgstr "Unsupported video URL"
+#~ msgid "Error displaying image"
+#~ msgstr "Error displaying image"
 
-msgid "Video playback failed"
-msgstr "Video playback failed"
+#~ msgid "Failed to download image"
+#~ msgstr "Failed to download image"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Failed to load image."
+
+#~ msgid "Image not available"
+#~ msgstr "Image not available"
+
+#~ msgid "Loading image..."
+#~ msgstr "Loading image..."
+
+#~ msgid "No image URL available"
+#~ msgstr "No image URL available"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Press OK to play video"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Unsupported video URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Video playback failed"

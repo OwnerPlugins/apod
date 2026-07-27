@@ -25,9 +25,6 @@ msgstr "မလုပ်တော့"
 msgid "Error building list"
 msgstr "တည်ဆောက်မှုစာရင်း အမှားအယွင်း"
 
-msgid "Error displaying image"
-msgstr "ပုံကိုပြသရာတွင် အမှားအယွင်းရှိသည်။"
-
 msgid "Error downloading image: {}"
 msgstr "ပုံဒေါင်းလုဒ်လုပ်ရာတွင် အမှားအယွင်းရှိနေသည်- {}"
 
@@ -37,17 +34,11 @@ msgstr "ဒေတာဖွင့်ရာတွင် အမှားအယွ�
 msgid "Error loading data. Try later."
 msgstr "ဒေတာဖွင့်ရာတွင် အမှားအယွင်းရှိသည်။ နောက်မှကြိုးစားပါ။"
 
-msgid "Failed to download image"
-msgstr "ပုံကို ဒေါင်းလုဒ်လုပ်၍မရပါ။"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "ပုံကိုယူရန် မအောင်မြင်ပါ- HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "APOD ကို တင်ရန် မအောင်မြင်ပါ။"
-
-msgid "Failed to load image."
-msgstr "ပုံတင်ရန် မအောင်မြင်ပါ။"
 
 msgid "Fetch mode:"
 msgstr "ထုတ်ယူမှုမုဒ်-"
@@ -58,9 +49,6 @@ msgstr "တွေ့တယ်။"
 msgid "Found {} entries"
 msgstr "ထည့်သွင်းမှုများ {} ကို တွေ့ရှိခဲ့သည်။"
 
-msgid "Image not available"
-msgstr "ပုံမရရှိနိုင်ပါ။"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "API ကီး မမှန်ပါ။ ကျေးဇူးပြု၍ မှန်ကန်သော NASA API သော့ကို ပြင်ဆင်သတ်မှတ်ပါ။"
 
@@ -69,9 +57,6 @@ msgstr "နေ့၏ နက္ခတ္တဗေဒ ပုံရိပ်ကိ�
 
 msgid "Loading fresh APOD data..."
 msgstr "APOD ဒေတာအသစ်ကို တင်နေသည်..."
-
-msgid "Loading image..."
-msgstr "ပုံတင်နေသည်..."
 
 msgid "Loading..."
 msgstr "ဖွင့်နေသည်..."
@@ -82,14 +67,8 @@ msgstr "NASA API သော့-"
 msgid "No data available. Check API key."
 msgstr "ဒေတာမရရှိနိုင်ပါ။ API ကီးကို စစ်ဆေးပါ။"
 
-msgid "No image URL available"
-msgstr "ပုံ URL မရရှိနိုင်ပါ။"
-
 msgid "Number of APODs to fetch:"
 msgstr "ထုတ်ယူရန် APOD အရေအတွက်-"
-
-msgid "Press OK to play video"
-msgstr "ဗီဒီယိုဖွင့်ရန် OK ကိုနှိပ်ပါ။"
 
 msgid "Random"
 msgstr "ကျပန်း"
@@ -109,8 +88,29 @@ msgstr "ရှာဖွေပါ..."
 msgid "Sort order:"
 msgstr "စီရန်-"
 
-msgid "Unsupported video URL"
-msgstr "ပံ့ပိုးမထားသော ဗီဒီယို URL"
+#~ msgid "Error displaying image"
+#~ msgstr "ပုံကိုပြသရာတွင် အမှားအယွင်းရှိသည်။"
 
-msgid "Video playback failed"
-msgstr "ဗီဒီယိုပြန်ဖွင့်ခြင်း မအောင်မြင်ပါ။"
+#~ msgid "Failed to download image"
+#~ msgstr "ပုံကို ဒေါင်းလုဒ်လုပ်၍မရပါ။"
+
+#~ msgid "Failed to load image."
+#~ msgstr "ပုံတင်ရန် မအောင်မြင်ပါ။"
+
+#~ msgid "Image not available"
+#~ msgstr "ပုံမရရှိနိုင်ပါ။"
+
+#~ msgid "Loading image..."
+#~ msgstr "ပုံတင်နေသည်..."
+
+#~ msgid "No image URL available"
+#~ msgstr "ပုံ URL မရရှိနိုင်ပါ။"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "ဗီဒီယိုဖွင့်ရန် OK ကိုနှိပ်ပါ။"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "ပံ့ပိုးမထားသော ဗီဒီယို URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "ဗီဒီယိုပြန်ဖွင့်ခြင်း မအောင်မြင်ပါ။"

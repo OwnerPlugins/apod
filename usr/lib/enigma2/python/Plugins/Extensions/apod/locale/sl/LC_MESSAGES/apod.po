@@ -26,9 +26,6 @@ msgstr "Prekliči"
 msgid "Error building list"
 msgstr "Napaka pri sestavljanju seznama"
 
-msgid "Error displaying image"
-msgstr "Napaka pri prikazu slike"
-
 msgid "Error downloading image: {}"
 msgstr "Napaka pri prenosu slike: {}"
 
@@ -38,17 +35,11 @@ msgstr "Napaka pri nalaganju podatkov"
 msgid "Error loading data. Try later."
 msgstr "Napaka pri nalaganju podatkov. Poskusite pozneje."
 
-msgid "Failed to download image"
-msgstr "Prenos slike ni uspel"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Slike ni bilo mogoče pridobiti: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "APOD ni bilo mogoče naložiti"
-
-msgid "Failed to load image."
-msgstr "Nalaganje slike ni uspelo."
 
 msgid "Fetch mode:"
 msgstr "Način pridobivanja:"
@@ -59,9 +50,6 @@ msgstr "Najden"
 msgid "Found {} entries"
 msgstr "Najdenih {} vnosov"
 
-msgid "Image not available"
-msgstr "Slika ni na voljo"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Neveljaven ključ API! Prosimo, konfigurirajte veljaven ključ NASA API."
 
@@ -70,9 +58,6 @@ msgstr "Nalaganje astronomske slike dneva ..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Nalaganje svežih podatkov APOD ..."
-
-msgid "Loading image..."
-msgstr "Nalaganje slike ..."
 
 msgid "Loading..."
 msgstr "Nalaganje..."
@@ -83,14 +68,8 @@ msgstr "NASA API ključ:"
 msgid "No data available. Check API key."
 msgstr "Ni podatkov. Preverite ključ API."
 
-msgid "No image URL available"
-msgstr "URL slike ni na voljo"
-
 msgid "Number of APODs to fetch:"
 msgstr "Število APOD za pridobivanje:"
-
-msgid "Press OK to play video"
-msgstr "Pritisnite OK za predvajanje videa"
 
 msgid "Random"
 msgstr "naključno"
@@ -110,8 +89,29 @@ msgstr "Iskanje ..."
 msgid "Sort order:"
 msgstr "Vrstni red:"
 
-msgid "Unsupported video URL"
-msgstr "Nepodprt URL videa"
+#~ msgid "Error displaying image"
+#~ msgstr "Napaka pri prikazu slike"
 
-msgid "Video playback failed"
-msgstr "Predvajanje videa ni uspelo"
+#~ msgid "Failed to download image"
+#~ msgstr "Prenos slike ni uspel"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Nalaganje slike ni uspelo."
+
+#~ msgid "Image not available"
+#~ msgstr "Slika ni na voljo"
+
+#~ msgid "Loading image..."
+#~ msgstr "Nalaganje slike ..."
+
+#~ msgid "No image URL available"
+#~ msgstr "URL slike ni na voljo"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Pritisnite OK za predvajanje videa"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Nepodprt URL videa"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Predvajanje videa ni uspelo"

@@ -25,9 +25,6 @@ msgstr "Ofbrekke"
 msgid "Error building list"
 msgstr "Flater gebou list"
 
-msgid "Error displaying image"
-msgstr "Flater by it werjaan fan ôfbylding"
-
 msgid "Error downloading image: {}"
 msgstr "Flater by it downloaden fan ôfbylding: {}"
 
@@ -37,17 +34,11 @@ msgstr "Flater by it laden fan gegevens"
 msgid "Error loading data. Try later."
 msgstr "Flater by it laden fan gegevens. Besykje letter."
 
-msgid "Failed to download image"
-msgstr "It downloaden fan ôfbylding is mislearre"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "It opheljen fan ôfbylding is mislearre: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "It laden fan APOD mislearre"
-
-msgid "Failed to load image."
-msgstr "It laden fan ôfbylding is mislearre."
 
 msgid "Fetch mode:"
 msgstr "Ophelje modus:"
@@ -58,9 +49,6 @@ msgstr "Fûn"
 msgid "Found {} entries"
 msgstr "{} yngongen fûn"
 
-msgid "Image not available"
-msgstr "Ofbylding net beskikber"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Unjildige API-kaai! Konfigurearje asjebleaft in jildige NASA API-kaai."
 
@@ -69,9 +57,6 @@ msgstr "Astronomy-ôfbylding fan 'e dei laden..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Laadt nije APOD-gegevens..."
-
-msgid "Loading image..."
-msgstr "Ofbylding laden..."
 
 msgid "Loading..."
 msgstr ""
@@ -82,14 +67,8 @@ msgstr "NASA API-kaai:"
 msgid "No data available. Check API key."
 msgstr "Gjin gegevens beskikber. Kontrolearje API-kaai."
 
-msgid "No image URL available"
-msgstr "Gjin ôfbyldings-URL beskikber"
-
 msgid "Number of APODs to fetch:"
 msgstr "Oantal APOD's om te heljen:"
-
-msgid "Press OK to play video"
-msgstr "Druk op OK om fideo te spyljen"
 
 msgid "Random"
 msgstr "willekeurich"
@@ -109,8 +88,29 @@ msgstr "Sykje..."
 msgid "Sort order:"
 msgstr "Sortearje folchoarder:"
 
-msgid "Unsupported video URL"
-msgstr "Net-stipe fideo-URL"
+#~ msgid "Error displaying image"
+#~ msgstr "Flater by it werjaan fan ôfbylding"
 
-msgid "Video playback failed"
-msgstr "Fideo ôfspieljen mislearre"
+#~ msgid "Failed to download image"
+#~ msgstr "It downloaden fan ôfbylding is mislearre"
+
+#~ msgid "Failed to load image."
+#~ msgstr "It laden fan ôfbylding is mislearre."
+
+#~ msgid "Image not available"
+#~ msgstr "Ofbylding net beskikber"
+
+#~ msgid "Loading image..."
+#~ msgstr "Ofbylding laden..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Gjin ôfbyldings-URL beskikber"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Druk op OK om fideo te spyljen"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Net-stipe fideo-URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Fideo ôfspieljen mislearre"

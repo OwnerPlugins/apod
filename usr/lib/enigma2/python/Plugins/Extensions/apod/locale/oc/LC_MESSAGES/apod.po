@@ -25,9 +25,6 @@ msgstr "Anullar"
 msgid "Error building list"
 msgstr "Error de lista de construccion"
 
-msgid "Error displaying image"
-msgstr "Error al moment de l'afichatge de l'imatge"
-
 msgid "Error downloading image: {}"
 msgstr "Error al moment del telecargament de l'imatge : {}"
 
@@ -37,17 +34,11 @@ msgstr "Error al moment de cargament de donadas"
 msgid "Error loading data. Try later."
 msgstr "Error al moment de cargament de donadas. Ensajatz mai tard."
 
-msgid "Failed to download image"
-msgstr "Fracàs al telecargament de l'imatge"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Fracàs al moment de la recuperacion de l'imatge : HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Fracàs al cargament de l'APOD"
-
-msgid "Failed to load image."
-msgstr "Fracàs al moment del cargament de l'imatge."
 
 msgid "Fetch mode:"
 msgstr "Mòde de recuperacion :"
@@ -58,9 +49,6 @@ msgstr "Fondar"
 msgid "Found {} entries"
 msgstr "Entradas {} trobadas"
 
-msgid "Image not available"
-msgstr "Imatge pas disponible"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Clau API invalida! Configuratz una clau API NASA valida."
 
@@ -69,9 +57,6 @@ msgstr "Loading Imatge de l'Astronomia del Jorn..."
 
 msgid "Loading fresh APOD data..."
 msgstr "En cargament de donadas APOD novèlas..."
-
-msgid "Loading image..."
-msgstr "Imatge en carga..."
 
 msgid "Loading..."
 msgstr "En cargament..."
@@ -82,14 +67,8 @@ msgstr "Clau API de la NASA:"
 msgid "No data available. Check API key."
 msgstr "Pas de donadas disponiblas. Verificatz la clau API."
 
-msgid "No image URL available"
-msgstr "Cap d'URL d'imatge disponibla"
-
 msgid "Number of APODs to fetch:"
 msgstr "Nombre d'APODs a prene:"
-
-msgid "Press OK to play video"
-msgstr "Quichatz sus D'acòrdi per legir la vidèo"
 
 msgid "Random"
 msgstr "aleatòri"
@@ -109,8 +88,29 @@ msgstr "Cercar..."
 msgid "Sort order:"
 msgstr "Òrdre de classament:"
 
-msgid "Unsupported video URL"
-msgstr "URL de vidèo pas presa en carga"
+#~ msgid "Error displaying image"
+#~ msgstr "Error al moment de l'afichatge de l'imatge"
 
-msgid "Video playback failed"
-msgstr "La lectura vidèo a fracassat"
+#~ msgid "Failed to download image"
+#~ msgstr "Fracàs al telecargament de l'imatge"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Fracàs al moment del cargament de l'imatge."
+
+#~ msgid "Image not available"
+#~ msgstr "Imatge pas disponible"
+
+#~ msgid "Loading image..."
+#~ msgstr "Imatge en carga..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Cap d'URL d'imatge disponibla"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Quichatz sus D'acòrdi per legir la vidèo"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "URL de vidèo pas presa en carga"
+
+#~ msgid "Video playback failed"
+#~ msgstr "La lectura vidèo a fracassat"

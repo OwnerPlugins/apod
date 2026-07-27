@@ -25,9 +25,6 @@ msgstr "Elatyr"
 msgid "Error building list"
 msgstr "Gurluş säwligi"
 
-msgid "Error displaying image"
-msgstr "Surat görkezmekde säwlik"
-
 msgid "Error downloading image: {}"
 msgstr "Suraty göçürip almakda säwlik: {}"
 
@@ -37,17 +34,11 @@ msgstr "Maglumat ýüklemekde säwlik"
 msgid "Error loading data. Try later."
 msgstr "Maglumat ýüklemekde säwlik. Soňrak synap görüň."
 
-msgid "Failed to download image"
-msgstr "Suraty göçürip bilmedi"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Surat alyp bilmedi: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "APOD ýükläp bilmedi"
-
-msgid "Failed to load image."
-msgstr "Surat ýükläp bilmedi"
 
 msgid "Fetch mode:"
 msgstr "Getirmek tertibi:"
@@ -58,9 +49,6 @@ msgstr "Tapyldy"
 msgid "Found {} entries"
 msgstr "{} Azgylary tapyldy"
 
-msgid "Image not available"
-msgstr "Surat elýeterli däl"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Nädogry API açary! Dogry NASA API açaryny düzmegiňizi haýyş edýäris."
 
@@ -69,9 +57,6 @@ msgstr "Astronomiýa gününiň suratyny ýüklemek ..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Täze APOD maglumatlary ýüklemek ..."
-
-msgid "Loading image..."
-msgstr "Surat ýüklenýär ..."
 
 msgid "Loading..."
 msgstr "Adingüklenýär ..."
@@ -82,14 +67,8 @@ msgstr "NASA API açary:"
 msgid "No data available. Check API key."
 msgstr "Maglumat ýok API açaryny barlaň."
 
-msgid "No image URL available"
-msgstr "Surat URL ýok"
-
 msgid "Number of APODs to fetch:"
 msgstr "Aljak APOD-laryň sany:"
-
-msgid "Press OK to play video"
-msgstr "Wideo görkezmek üçin OK basyň"
 
 msgid "Random"
 msgstr "tötänleýin"
@@ -109,8 +88,29 @@ msgstr "Gözleg ..."
 msgid "Sort order:"
 msgstr "Sargyt tertibi:"
 
-msgid "Unsupported video URL"
-msgstr "Goldanmaýan wideo URL"
+#~ msgid "Error displaying image"
+#~ msgstr "Surat görkezmekde säwlik"
 
-msgid "Video playback failed"
-msgstr "Wideo görkezmek şowsuz"
+#~ msgid "Failed to download image"
+#~ msgstr "Suraty göçürip bilmedi"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Surat ýükläp bilmedi"
+
+#~ msgid "Image not available"
+#~ msgstr "Surat elýeterli däl"
+
+#~ msgid "Loading image..."
+#~ msgstr "Surat ýüklenýär ..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Surat URL ýok"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Wideo görkezmek üçin OK basyň"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Goldanmaýan wideo URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Wideo görkezmek şowsuz"

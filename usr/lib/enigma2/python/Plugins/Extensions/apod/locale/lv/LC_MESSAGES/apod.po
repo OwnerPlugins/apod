@@ -26,9 +26,6 @@ msgstr "Atcelt"
 msgid "Error building list"
 msgstr "Veidojot sarakstu, radās kļūda"
 
-msgid "Error displaying image"
-msgstr "Parādot attēlu, radās kļūda"
-
 msgid "Error downloading image: {}"
 msgstr "Lejupielādējot attēlu, radās kļūda: {}"
 
@@ -38,17 +35,11 @@ msgstr "Ielādējot datus, radās kļūda"
 msgid "Error loading data. Try later."
 msgstr "Ielādējot datus, radās kļūda. Mēģiniet vēlāk."
 
-msgid "Failed to download image"
-msgstr "Neizdevās lejupielādēt attēlu"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "Neizdevās ienest attēlu: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "Neizdevās ielādēt APOD"
-
-msgid "Failed to load image."
-msgstr "Neizdevās ielādēt attēlu."
 
 msgid "Fetch mode:"
 msgstr "Ieneses režīms:"
@@ -59,9 +50,6 @@ msgstr "Atrasts"
 msgid "Found {} entries"
 msgstr "Atrasti {} ieraksti"
 
-msgid "Image not available"
-msgstr "Attēls nav pieejams"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "Nederīga API atslēga! Lūdzu, konfigurējiet derīgu NASA API atslēgu."
 
@@ -70,9 +58,6 @@ msgstr "Notiek dienas astronomijas attēla ielāde..."
 
 msgid "Loading fresh APOD data..."
 msgstr "Notiek jaunu APOD datu ielāde..."
-
-msgid "Loading image..."
-msgstr "Notiek attēla ielāde..."
 
 msgid "Loading..."
 msgstr "Notiek ielāde..."
@@ -83,14 +68,8 @@ msgstr "NASA API atslēga:"
 msgid "No data available. Check API key."
 msgstr "Nav pieejami dati. Pārbaudiet API atslēgu."
 
-msgid "No image URL available"
-msgstr "Nav pieejams attēla URL"
-
 msgid "Number of APODs to fetch:"
 msgstr "Ienesamo APOD skaits:"
-
-msgid "Press OK to play video"
-msgstr "Nospiediet OK, lai atskaņotu video"
 
 msgid "Random"
 msgstr "nejauši"
@@ -110,8 +89,29 @@ msgstr "Meklēt..."
 msgid "Sort order:"
 msgstr "Kārtošanas secība:"
 
-msgid "Unsupported video URL"
-msgstr "Neatbalstīts video URL"
+#~ msgid "Error displaying image"
+#~ msgstr "Parādot attēlu, radās kļūda"
 
-msgid "Video playback failed"
-msgstr "Videoklipa atskaņošana neizdevās"
+#~ msgid "Failed to download image"
+#~ msgstr "Neizdevās lejupielādēt attēlu"
+
+#~ msgid "Failed to load image."
+#~ msgstr "Neizdevās ielādēt attēlu."
+
+#~ msgid "Image not available"
+#~ msgstr "Attēls nav pieejams"
+
+#~ msgid "Loading image..."
+#~ msgstr "Notiek attēla ielāde..."
+
+#~ msgid "No image URL available"
+#~ msgstr "Nav pieejams attēla URL"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "Nospiediet OK, lai atskaņotu video"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "Neatbalstīts video URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "Videoklipa atskaņošana neizdevās"

@@ -25,9 +25,6 @@ msgstr "අවලංගු කරන්න"
 msgid "Error building list"
 msgstr "ලැයිස්තුව ගොඩනැගීමේ දෝෂයකි"
 
-msgid "Error displaying image"
-msgstr "රූපය පෙන්වීමේ දෝෂයකි"
-
 msgid "Error downloading image: {}"
 msgstr "රූපය බාගත කිරීමේ දෝෂයකි: {}"
 
@@ -37,17 +34,11 @@ msgstr "දත්ත පූරණය කිරීමේ දෝෂයකි"
 msgid "Error loading data. Try later."
 msgstr "දත්ත පූරණය කිරීමේ දෝෂයකි. පසුව උත්සාහ කරන්න."
 
-msgid "Failed to download image"
-msgstr "රූපය බාගැනීම අසාර්ථක විය"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "රූපය ලබා ගැනීමට අසමත් විය: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "APOD පූරණය කිරීමට අසමත් විය"
-
-msgid "Failed to load image."
-msgstr "රූපය පූරණය කිරීමට අසමත් විය."
 
 msgid "Fetch mode:"
 msgstr "ලබා ගැනීමේ මාදිලිය:"
@@ -58,9 +49,6 @@ msgstr "හමු විය"
 msgid "Found {} entries"
 msgstr "ඇතුළත් කිරීම් {}ක් හමු විය"
 
-msgid "Image not available"
-msgstr "රූපය නොමැත"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "වලංගු නොවන API යතුර! කරුණාකර වලංගු NASA API යතුරක් වින්‍යාස කරන්න."
 
@@ -69,9 +57,6 @@ msgstr "දවසේ තාරකා විද්‍යා පින්තූර
 
 msgid "Loading fresh APOD data..."
 msgstr "නැවුම් APOD දත්ත පූරණය කරමින්..."
-
-msgid "Loading image..."
-msgstr "රූපය පූරණය කරමින්..."
 
 msgid "Loading..."
 msgstr "පූරණය වෙමින්..."
@@ -82,14 +67,8 @@ msgstr "NASA API යතුර:"
 msgid "No data available. Check API key."
 msgstr "දත්ත නොමැත. API යතුර පරීක්ෂා කරන්න."
 
-msgid "No image URL available"
-msgstr "රූප URL නොමැත"
-
 msgid "Number of APODs to fetch:"
 msgstr "ලබා ගැනීමට APODs ගණන:"
-
-msgid "Press OK to play video"
-msgstr "වීඩියෝව වාදනය කිරීමට OK ඔබන්න"
 
 msgid "Random"
 msgstr "අහඹු"
@@ -109,8 +88,29 @@ msgstr "සොයන්න..."
 msgid "Sort order:"
 msgstr "අනුපිළිවෙල අනුපිළිවෙල:"
 
-msgid "Unsupported video URL"
-msgstr "සහාය නොදක්වන වීඩියෝ URL"
+#~ msgid "Error displaying image"
+#~ msgstr "රූපය පෙන්වීමේ දෝෂයකි"
 
-msgid "Video playback failed"
-msgstr "වීඩියෝ නැවත ධාවනය අසාර්ථක විය"
+#~ msgid "Failed to download image"
+#~ msgstr "රූපය බාගැනීම අසාර්ථක විය"
+
+#~ msgid "Failed to load image."
+#~ msgstr "රූපය පූරණය කිරීමට අසමත් විය."
+
+#~ msgid "Image not available"
+#~ msgstr "රූපය නොමැත"
+
+#~ msgid "Loading image..."
+#~ msgstr "රූපය පූරණය කරමින්..."
+
+#~ msgid "No image URL available"
+#~ msgstr "රූප URL නොමැත"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "වීඩියෝව වාදනය කිරීමට OK ඔබන්න"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "සහාය නොදක්වන වීඩියෝ URL"
+
+#~ msgid "Video playback failed"
+#~ msgstr "වීඩියෝ නැවත ධාවනය අසාර්ථක විය"
