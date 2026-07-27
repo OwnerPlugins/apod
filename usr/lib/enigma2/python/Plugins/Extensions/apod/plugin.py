@@ -444,7 +444,27 @@ class SecureCacheManager:
 
 
 class APODConfigScreen(ConfigListScreen, Screen):
-    skin = """
+    screen_width = getDesktop(0).size().width()
+    if screen_width == 2560:
+        skin = """
+        <screen name="APODConfigScreen" position="center,center" size="2560,1440" title="APOD Plugin Settings" flags="wfNoBorder">
+            <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/apod/res/icons/back.png" position="0,0" size="2560,1440" alphatest="blend" zPosition="-1" />
+            <widget name="config" position="100,200" size="2360,1000" itemHeight="90" scrollbarMode="showOnDemand" />
+            <widget name="key_green" position="500,1240" size="500,100" font="Regular;60" halign="center" valign="center" backgroundColor="#008000" />
+            <widget name="key_red" position="1400,1240" size="500,100" font="Regular;60" halign="center" valign="center" backgroundColor="#FF0000" />
+            <widget name="title" position="100,80" size="2360,100" font="Regular;64" valign="center" halign="center" backgroundColor="#2a70a4" />
+        </screen>"""
+    elif screen_width == 1920:
+        skin = """
+        <screen name="APODConfigScreen" position="center,center" size="1920,1080" title="APOD Plugin Settings" flags="wfNoBorder">
+            <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/apod/res/icons/back.png" position="0,0" size="1920,1080" alphatest="blend" zPosition="-1" />
+            <widget name="config" position="75,150" size="1770,750" itemHeight="68" scrollbarMode="showOnDemand" />
+            <widget name="key_green" position="375,930" size="375,75" font="Regular;45" halign="center" valign="center" backgroundColor="#008000" />
+            <widget name="key_red" position="1050,930" size="375,75" font="Regular;45" halign="center" valign="center" backgroundColor="#FF0000" />
+            <widget name="title" position="75,60" size="1770,75" font="Regular;48" valign="center" halign="center" backgroundColor="#2a70a4" />
+        </screen>"""
+    else:  # HD 1280x720
+        skin = """
         <screen name="APODConfigScreen" position="center,center" size="1280,720" title="APOD Plugin Settings" flags="wfNoBorder">
             <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/apod/res/icons/back.png" position="0,0" size="1280,720" alphatest="blend" zPosition="-1" />
             <widget name="config" position="50,100" size="1180,500" itemHeight="45" scrollbarMode="showOnDemand" />
@@ -510,20 +530,25 @@ class APODConfigScreen(ConfigListScreen, Screen):
 
 
 class SplashScreen(Screen):
-
-    if screen_width == 1920:
+    screen_width = getDesktop(0).size().width()
+    if screen_width == 2560:
         skin = """
-            <screen name="SplashScreen" position="center,center" size="1920,1080" flags="wfNoBorder">
-                <widget name="image" position="0,0" size="1920,1080" zPosition="1" alphatest="off" scale="1"/>
-                <widget name="text" position="100,900" size="1720,100"
-                    font="Regular;40" valign="center" halign="center" zPosition="2"/>
-            </screen>"""
-    else:
+        <screen name="SplashScreen" position="center,center" size="2560,1440" flags="wfNoBorder">
+            <widget name="image" position="0,0" size="2560,1240" zPosition="1" alphatest="off" scale="1"/>
+            <widget name="text" position="8,1236" size="2544,200" font="Regular;80" valign="center" halign="center" zPosition="2"/>
+        </screen>"""
+    elif screen_width == 1920:
         skin = """
-            <screen name="SplashScreen" position="center,center" size="1280,720" flags="wfNoBorder">
-                <widget name="image" position="0,0" size="1280,620" zPosition="1" alphatest="off" scale="1" />
-                <widget name="text" position="4,618" size="1274,100" font="Regular;40" valign="center" halign="center" zPosition="2" />
-            </screen>"""
+        <screen name="SplashScreen" position="center,center" size="1920,1080" flags="wfNoBorder">
+            <widget name="image" position="0,0" size="1920,930" zPosition="1" alphatest="off" scale="1"/>
+            <widget name="text" position="6,927" size="1908,150" font="Regular;60" valign="center" halign="center" zPosition="2"/>
+        </screen>"""
+    else:  # HD 1280x720
+        skin = """
+        <screen name="SplashScreen" position="center,center" size="1280,720" flags="wfNoBorder">
+            <widget name="image" position="0,0" size="1280,620" zPosition="1" alphatest="off" scale="1" />
+            <widget name="text" position="4,618" size="1274,100" font="Regular;40" valign="center" halign="center" zPosition="2" />
+        </screen>"""
 
     def __init__(self, session):
         Screen.__init__(self, session)
@@ -678,7 +703,51 @@ class SplashScreen(Screen):
 
 
 class ArchiveScreen(Screen):
-    if screen_width == 1920:
+    screen_width = getDesktop(0).size().width()
+    if screen_width == 2560:
+        skin = """
+        <screen name="ArchiveScreen" position="center,center" size="2560,1440" flags="wfNoBorder">
+            <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/apod/res/icons/back.png" position="0,0" size="2560,1440" alphatest="blend" scale="1" zPosition="-3" cornerRadius="90" />
+            <ePixmap position="0,0" size="2560,1440" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/apod/res/icons/backgtr.png" alphatest="blend" scale="1" zPosition="-2" cornerRadius="90" />
+            <widget source="list" render="Listbox" position="12,118" size="2198,1184" transparent="1" itemHeight="120" enableWrapAround="1" scrollbarMode="showNever">
+                <convert type="TemplatedMultiContent">
+                    {
+                        "template": [
+                            MultiContentEntryPixmapAlphaBlend(
+                                pos=(20, 10),
+                                size=(100, 100),
+                                png=0
+                            ),
+                            MultiContentEntryText(
+                                pos=(140, 10),
+                                size=(2200, 50),
+                                font=0,
+                                flags=RT_HALIGN_LEFT | RT_VALIGN_CENTER,
+                                text=1
+                            ),
+                            MultiContentEntryText(
+                                pos=(140, 60),
+                                size=(2200, 50),
+                                font=1,
+                                flags=RT_HALIGN_LEFT | RT_VALIGN_CENTER,
+                                text=2
+                            )
+                        ],
+                        "fonts": [gFont("Regular", 48), gFont("Regular", 44)],
+                        "itemHeight": 120
+                    }
+                </convert>
+            </widget>
+            <widget name="title" position="10,10" size="2560,100" font="Regular; 64" transparent="1" zPosition="3" halign="center" />
+            <widget name="status" position="10,1310" size="2406,100" font="Regular;56" halign="center" />
+            <eLabel name="" position="2310,219" size="150,150" backgroundColor="#002a2a2a" halign="center" valign="center" transparent="0" cornerRadius="80" font="Regular; 34" zPosition="1" text="MENU" />
+            <eLabel name="" position="2310,395" size="150,150" backgroundColor="#002a2a2a" halign="center" valign="center" transparent="0" cornerRadius="80" font="Regular; 34" zPosition="1" text="OK" />
+            <eLabel name="" position="2316,580" size="150,150" backgroundColor="#002a2a2a" halign="center" valign="center" transparent="0" cornerRadius="80" font="Regular; 34" zPosition="1" text="INFO" />
+            <eLabel name="" position="2320,770" size="150,150" backgroundColor="#2a70a4" halign="center" valign="center" transparent="0" cornerRadius="80" font="Regular; 34" zPosition="1" text="SEARCH" />
+            <eLabel name="" position="2325,975" size="150,150" backgroundColor="#9f1313" halign="center" valign="center" transparent="0" cornerRadius="80" font="Regular; 34" zPosition="1" text="EXIT" />
+        </screen>
+        """
+    elif screen_width == 1920:
         skin = """
         <screen name="ArchiveScreen" position="center,center" size="1920,1080" flags="wfNoBorder">
             <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/apod/res/icons/back.png" position="0,0" size="1920,1080" alphatest="blend" scale="1" zPosition="-3" cornerRadius="45" />
@@ -721,8 +790,7 @@ class ArchiveScreen(Screen):
             <eLabel name="" position="1743,731" size="113,113" backgroundColor="#9f1313" halign="center" valign="center" transparent="0" cornerRadius="60" font="Regular; 26" zPosition="1" text="EXIT" />
         </screen>
         """
-
-    else:
+    else:  # HD 1280x720
         skin = """
         <screen name="ArchiveScreen" position="center,center" size="1280,720" flags="wfNoBorder">
             <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/apod/res/icons/back.png" position="0,0" size="1280,720" alphatest="blend" scale="1" zPosition="-3" cornerRadius="30" />
@@ -1069,7 +1137,17 @@ class ArchiveScreen(Screen):
 
 
 class DetailScreen(Screen):
-    if screen_width == 1920:
+    screen_width = getDesktop(0).size().width()
+    if screen_width == 2560:
+        skin = """
+        <screen name="DetailScreen" position="center,center" size="2560,1440" flags="wfNoBorder">
+            <widget name="image" position="2,148" size="2556,840" alphatest="off" scale="1" cornerRadius="180" zPosition="3" />
+            <widget name="date" position="1670,10" size="700,120" font="Regular;52" halign="right" valign="center" zPosition="3" backgroundGradient="#2a70a4,mint,lmsb,horizontal" />
+            <widget name="title" position="10,10" size="1660,120" font="Regular;64" halign="center" valign="center" backgroundGradient="#2a70a4,mint,lmsb,horizontal" />
+            <widget name="description" position="0,996" size="2562,440" font="Regular;52" transparent="1" zPosition="3" />
+            <eLabel name="" position="2398,10" size="140,140" backgroundColor="#002a2a2a" halign="center" valign="center" transparent="0" cornerRadius="80" font="Regular; 34" zPosition="3" text="INFO" />
+        </screen>"""
+    elif screen_width == 1920:
         skin = """
         <screen name="DetailScreen" position="center,center" size="1600,900" flags="wfNoBorder">
             <widget name="image" position="75,72" size="1459,586" alphatest="off" scale="1" cornerRadius="90" zPosition="3" />
@@ -1078,7 +1156,7 @@ class DetailScreen(Screen):
             <widget name="description" position="12,662" size="1569,237" font="Regular;26" transparent="1" zPosition="3" />
             <eLabel name="" position="1520,0" size="70,70" backgroundColor="#002a2a2a" halign="center" valign="center" transparent="0" cornerRadius="40" font="Regular; 17" zPosition="3" text="INFO" />
         </screen>"""
-    else:
+    else:  # HD 1280x720
         skin = """
         <screen name="DetailScreen" position="center,center" size="1280,720" flags="wfNoBorder">
             <widget name="image" position="1,74" size="1280,420" alphatest="off" scale="1" cornerRadius="90" zPosition="3" />
@@ -1338,278 +1416,6 @@ class DetailScreen(Screen):
     def handle_error(self, failure):
         logger.error("Error downloading image: {}".format(failure))
         self["description"].setText(trans("Failed to load image."))
-
-    def close(self):
-        self.active = False
-        if hasattr(self, 'picload'):
-            self.picload = None
-        if hasattr(self, 'gif_timer'):
-            self.gif_timer.stop()
-        Screen.close(self)
-
-
-class DetailScreen222222(Screen):
-
-    if screen_width == 1920:
-        skin = """
-        <screen name="DetailScreen" position="center,center" size="1600,900" flags="wfNoBorder">
-            <widget name="image" position="75,72" size="1459,586" alphatest="off" scale="1" cornerRadius="90" zPosition="3" />
-            <widget name="date" position="1160,5" size="350,60" font="Regular;26" halign="right" valign="center" zPosition="3" backgroundGradient="#2a70a4,mint,lmsb,horizontal" />
-            <widget name="title" position="80,5" size="1075,60" font="Regular;32" halign="center" valign="center" backgroundGradient="#2a70a4,mint,lmsb,horizontal" />
-            <widget name="description" position="12,662" size="1569,237" font="Regular;26" transparent="1" zPosition="3" />
-            <eLabel name="" position="1520,0" size="70,70" backgroundColor="#002a2a2a" halign="center" valign="center" transparent="0" cornerRadius="40" font="Regular; 17" zPosition="3" text="INFO" />
-        </screen>"""
-    else:
-        skin = """
-        <screen name="DetailScreen" position="center,center" size="1280,720" flags="wfNoBorder">
-            <widget name="image" position="1,74" size="1280,420" alphatest="off" scale="1" cornerRadius="90" zPosition="3" />
-            <widget name="date" position="835,5" size="350,60" font="Regular;26" halign="right" valign="center" zPosition="3" backgroundGradient="#2a70a4,mint,lmsb,horizontal" />
-            <widget name="title" position="5,5" size="830,60" font="Regular;32" halign="center" valign="center" backgroundGradient="#2a70a4,mint,lmsb,horizontal" />
-            <widget name="description" position="0,498" size="1282,220" font="Regular;26" transparent="1" zPosition="3" />
-            <eLabel name="" position="1199,5" size="70,70" backgroundColor="#002a2a2a" halign="center" valign="center" transparent="0" cornerRadius="40" font="Regular; 17" zPosition="3" text="INFO" />
-        </screen>"""
-
-    def __init__(self, session, data):
-        Screen.__init__(self, session)
-        self.data = data
-        self.active = True
-        self["image"] = Pixmap()
-        self["title"] = Label(self.data.get("title", ""))
-        self["date"] = Label(self.data.get("date", ""))
-        self["description"] = Label("")
-
-        self["actions"] = HelpableActionMap(
-            self, "ApodActions",
-            {
-                "ok": self.on_ok,
-                "cancel": self.close,
-                "info": self.show_info
-            }, -1
-        )
-
-        self.onLayoutFinish.append(self.load_media)
-
-    def load_media(self):
-        """Branch: image or video?"""
-        if not self.active:
-            return
-
-        mt = self.data.get("media_type")
-        if mt == "image":
-            self.load_image()
-        elif mt == "video":
-            self["description"].setText(_("Press OK to play video"))
-        elif mt == "gif":
-            url = self.data.get("hdurl") or self.data.get("url")
-            self.show_animated_gif(url)
-        else:
-            original_desc = self.data.get("explanation", "")
-            translated_desc = trans(original_desc)
-            self["description"].setText(translated_desc)
-
-    def load_image(self, url=None, force=False):
-        """
-        Download and display the image
-        """
-        self["description"].setText(_("Loading image..."))
-        if not url:
-            url = self.data.get("hdurl") or self.data.get("url")
-            if not url:
-                self["description"].setText(_("No image URL available"))
-                return
-
-        if not force:
-            parsed_url = urlparse(url)
-            file_ext = splitext(parsed_url.path)[1].lower() or ".jpg"
-            filename = "{}{}".format(self.data['date'], file_ext)
-            local_path = join(CACHE_DIR, filename)
-
-            if exists(local_path):
-                self.update_image(local_path)
-                return
-
-        self.download_image(url, local_path if not force else None)
-
-    def download_image(self, url, local_path=None):
-        """Download image using downloadPage"""
-        try:
-            if not local_path:
-                parsed_url = urlparse(url)
-                file_ext = splitext(parsed_url.path)[1].lower() or ".jpg"
-                filename = "{}{}".format(self.data['date'], file_ext)
-                local_path = join(CACHE_DIR, filename)
-            logger.info("Downloading image: {}".format(url))
-            downloadPage(
-                url.encode('utf-8'),
-                local_path
-            ).addCallbacks(
-                lambda result: self.update_image(local_path),
-                lambda failure: self.handle_download_error(failure, url)
-            )
-        except Exception as e:
-            logger.error("Download error: {}".format(e))
-            self.handle_download_error(e, url)
-
-    def update_image(self, path):
-        """
-        Show the image from the given path, then set the explanation text.
-        """
-        if exists(path):
-            try:
-                self["image"].instance.setPixmapFromFile(path)
-
-                original_desc = self.data.get("explanation", "")
-                translated_desc = trans(original_desc)
-                self["description"].setText(translated_desc)
-                logger.info("Image displayed: {}".format(path))
-            except Exception as e:
-                logger.error("Failed to display image: {}".format(e))
-                self["description"].setText(_("Error displaying image"))
-        else:
-            logger.warning("Image file not found: {}".format(path))
-            self["description"].setText(_("Image not available"))
-
-    def handle_download_error(self, error, url):
-        """Handle download errors"""
-        logger.error("Download failed for {}: {}".format(url, error))
-        self["description"].setText(_("Failed to download image"))
-
-    def on_ok(self):
-        """OK: either play video/gif or reload image."""
-        if not self.active:
-            return
-
-        mt = self.data.get("media_type")
-        if mt == "video":
-            logger.info("for video")
-            self.play_video()
-
-        elif mt == "gif":
-            url = self.data.get("hdurl") or self.data.get("url")
-            logger.info("for gif " +
-                        str(self.data.get("date")) +
-                        ": " +
-                        str(url))
-            self.show_animated_gif(url)
-
-        elif mt == "image":
-            lowres_url = self.data.get("url")  # low resolution URL
-            logger.info("for image: " + str(lowres_url))
-            self.load_image(lowres_url, force=True)
-
-        else:
-            self.close()
-
-    def play_video(self):
-        """
-        Download & merge YouTube audio/video, then launch MoviePlayer.
-        """
-        url = self.data.get("url", "")
-        logger.info("Playing video: {}".format(url))
-
-        # extract ID YouTube
-        m = search(r"(?:v=|youtu\.be/|embed/)([\w-]+)", url)
-        if not m:
-            return self.session.open(
-                MessageBox,
-                _("Unsupported video URL"),
-                MessageBox.TYPE_INFO)
-        vid = m.group(1)
-
-        logger.debug("play_video vid video():  {}".format(vid))
-
-        try:
-            try:
-                from youtube_dl import YoutubeDL
-            except ImportError:
-                self.session.open(
-                    MessageBox,
-                    'Please install "YoutubeDL" plugin!',
-                    MessageBox.TYPE_ERROR)
-                return
-
-            try:
-                yt_url = 'https://www.youtube.com/watch?v={}'.format(vid)
-                stream = eServiceReference(4097, 0, yt_url)
-                ydl_opts = {'format': 'best'}
-                ydl = YoutubeDL(ydl_opts)
-                ydl.add_default_info_extractors()
-                result = ydl.extract_info(yt_url, download=False)
-                if result and 'url' in result:
-                    video_url = result['url']
-                else:
-                    video_url = yt_url
-                stream = eServiceReference(4097, 0, video_url)
-
-                stream = eServiceReference(4097, 0, video_url)
-                logger.debug("Extracted video URL: {}".format(stream))
-                stream.setName(self.data.get('title', 'APOD Video'))
-                self.session.open(MoviePlayer, stream)
-
-            except Exception as e:
-                logger.error("Video playback error: {}".format(e))
-                self.session.open(
-                    MessageBox,
-                    _("Video playback failed"),
-                    MessageBox.TYPE_INFO)
-        except Exception as e:
-            logger.exception("Error in play_video(): %s", e)
-            self.session.open(
-                MessageBox,
-                _("Video playback failed"),
-                MessageBox.TYPE_INFO)
-
-    def show_animated_gif(self, url):
-        try:
-            from enigma import ePicLoad
-            self.picload = ePicLoad()
-            self.picload.setPara(
-                (
-                    self["image"].instance.size().width(),
-                    self["image"].instance.size().height(),
-                    1, 1, 0, 0, '#00000000'
-                )
-            )
-
-            self.picload.startDecode(url)
-            self.gif_timer = eTimer()
-            self.gif_timer.callback.append(self.check_gif_status)
-            self.gif_timer.start(100)
-        except Exception as e:
-            logger.error("GIF error: " + str(e))
-
-    def check_gif_status(self):
-        if self.picload.getData() is None:
-            return
-        self["image"].instance.setPixmap(self.picload.getData())
-
-    def _cleanup_video(self, *args):
-        """Delete temporary files after closing MoviePlayer."""
-        for fn in listdir(CACHE_DIR):
-            if fn.startswith(("apod_vid_", "apod_aud_", "apod_out_")):
-                try:
-                    remove(join(CACHE_DIR, fn))
-                except OSError as e:
-                    logger.warning(
-                        "Failed to remove temporary file {}: {}".format(fn, e))
-                except Exception as e:
-                    logger.error(
-                        "Unexpected error removing file {}: {}".format(fn, e))
-
-    def show_info(self):
-        """Show detailed info"""
-        title = self.data.get("title", "No Title")
-        explanation = self.data.get("explanation", "No Description")
-        msg = "{}\n\n{}".format(title, explanation)
-        self.session.open(MessageBox, msg, MessageBox.TYPE_INFO)
-
-    def handle_error(self, failure):
-        """
-        Called if downloadPage fails.
-        Logs the error and shows a fallback message.
-        """
-        logger.error("Error downloading image: {}".format(failure))
-        self["description"].setText(_("Failed to load image."))
 
     def close(self):
         self.active = False
