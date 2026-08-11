@@ -26,9 +26,6 @@ msgstr "לְבַטֵל"
 msgid "Error building list"
 msgstr "שגיאה בבניית רשימה"
 
-msgid "Error displaying image"
-msgstr "שגיאה בהצגת התמונה"
-
 msgid "Error downloading image: {}"
 msgstr "שגיאה בהורדת תמונה: {}"
 
@@ -38,17 +35,11 @@ msgstr "שגיאה בטעינת נתונים"
 msgid "Error loading data. Try later."
 msgstr "שגיאה בטעינת נתונים. נסה מאוחר יותר."
 
-msgid "Failed to download image"
-msgstr "הורדת התמונה נכשלה"
-
 msgid "Failed to fetch image: HTTP {}"
 msgstr "שליפת התמונה נכשלה: HTTP {}"
 
 msgid "Failed to load APOD"
 msgstr "טעינת APOD נכשלה"
-
-msgid "Failed to load image."
-msgstr "טעינת התמונה נכשלה."
 
 msgid "Fetch mode:"
 msgstr "מצב אחזור:"
@@ -59,9 +50,6 @@ msgstr "נמצא"
 msgid "Found {} entries"
 msgstr "נמצאו {} ערכים"
 
-msgid "Image not available"
-msgstr "תמונה לא זמינה"
-
 msgid "Invalid API Key! Please configure a valid NASA API key."
 msgstr "מפתח API לא חוקי! נא להגדיר מפתח API חוקי של NASA."
 
@@ -71,26 +59,17 @@ msgstr "טוען את תמונת היום באסטרונומיה..."
 msgid "Loading fresh APOD data..."
 msgstr "טוען נתוני APOD טריים..."
 
-msgid "Loading image..."
-msgstr "טוען תמונה..."
-
 msgid "Loading..."
 msgstr "טְעִינָה..."
 
 msgid "NASA API Key:"
-msgstr "מפתח API של נאס"א:"
+msgstr "מפתח API של נאס\\\\\\\"א:"
 
 msgid "No data available. Check API key."
 msgstr "אין נתונים זמינים. בדוק מפתח API."
 
-msgid "No image URL available"
-msgstr "אין כתובת אתר של תמונה זמינה"
-
 msgid "Number of APODs to fetch:"
 msgstr "מספר APODs לשליפה:"
-
-msgid "Press OK to play video"
-msgstr "לחץ על אישור כדי להפעיל וידאו"
 
 msgid "Random"
 msgstr "אַקרַאִי"
@@ -110,8 +89,29 @@ msgstr "לְחַפֵּשׂ..."
 msgid "Sort order:"
 msgstr "סדר מיון:"
 
-msgid "Unsupported video URL"
-msgstr "כתובת URL של סרטון לא נתמכת"
+#~ msgid "Error displaying image"
+#~ msgstr "שגיאה בהצגת התמונה"
 
-msgid "Video playback failed"
-msgstr "הפעלת הסרטון נכשלה"
+#~ msgid "Failed to download image"
+#~ msgstr "הורדת התמונה נכשלה"
+
+#~ msgid "Failed to load image."
+#~ msgstr "טעינת התמונה נכשלה."
+
+#~ msgid "Image not available"
+#~ msgstr "תמונה לא זמינה"
+
+#~ msgid "Loading image..."
+#~ msgstr "טוען תמונה..."
+
+#~ msgid "No image URL available"
+#~ msgstr "אין כתובת אתר של תמונה זמינה"
+
+#~ msgid "Press OK to play video"
+#~ msgstr "לחץ על אישור כדי להפעיל וידאו"
+
+#~ msgid "Unsupported video URL"
+#~ msgstr "כתובת URL של סרטון לא נתמכת"
+
+#~ msgid "Video playback failed"
+#~ msgstr "הפעלת הסרטון נכשלה"
